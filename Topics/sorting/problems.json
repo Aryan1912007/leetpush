@@ -4,8 +4,28 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-02T19:42:57.932Z",
+  "updatedAt": "2026-10-02T19:51:07.750Z",
   "problems": [
+    {
+      "frontendId": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "problemName": "0217-contains-duplicate",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+      "folderPath": "0217-contains-duplicate/",
+      "readmePath": "0217-contains-duplicate/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0217-contains-duplicate.cpp",
+          "path": "0217-contains-duplicate/0217-contains-duplicate.cpp",
+          "sha": "8d5b2615e0546c65215ae0f5acd1182f6629d689",
+          "lastSyncedAt": "2026-10-02T19:51:07.750Z"
+        }
+      ]
+    },
     {
       "frontendId": "2089",
       "title": "Find Target Indices After Sorting Array",
