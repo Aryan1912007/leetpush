@@ -4,8 +4,28 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-10-02T19:48:47.777Z",
+  "updatedAt": "2026-10-02T19:49:45.540Z",
   "problems": [
+    {
+      "frontendId": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "problemName": "0050-powx-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
+      "folderPath": "0050-powx-n/",
+      "readmePath": "0050-powx-n/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0050-powx-n.cpp",
+          "path": "0050-powx-n/0050-powx-n.cpp",
+          "sha": "f8655afbae2e52e5bce618fe4ffb523333c69171",
+          "lastSyncedAt": "2026-10-02T19:49:45.540Z"
+        }
+      ]
+    },
     {
       "frontendId": "342",
       "title": "Power of Four",
