@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-02T19:40:47.940Z",
+  "updatedAt": "2026-10-02T19:41:03.132Z",
   "problems": [
     {
       "frontendId": "2425",
@@ -23,6 +23,26 @@
           "path": "2425-bitwise-xor-of-all-pairings/2425-bitwise-xor-of-all-pairings.cpp",
           "sha": "75eeed4f6089984264b71cf15f82a30883fc5e1d",
           "lastSyncedAt": "2026-10-02T19:40:47.940Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2595",
+      "title": "Number of Even and Odd Bits",
+      "slug": "number-of-even-and-odd-bits",
+      "problemName": "2595-number-of-even-and-odd-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-even-and-odd-bits/",
+      "folderPath": "2595-number-of-even-and-odd-bits/",
+      "readmePath": "2595-number-of-even-and-odd-bits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2595-number-of-even-and-odd-bits.cpp",
+          "path": "2595-number-of-even-and-odd-bits/2595-number-of-even-and-odd-bits.cpp",
+          "sha": "9788737d16d22366c9004780cf41cd55f4836dc4",
+          "lastSyncedAt": "2026-10-02T19:41:03.132Z"
         }
       ]
     }
