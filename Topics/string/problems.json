@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-02T19:43:34.472Z",
+  "updatedAt": "2026-10-02T19:43:52.762Z",
   "problems": [
     {
       "frontendId": "20",
@@ -123,6 +123,26 @@
           "path": "2942-find-words-containing-character/2942-find-words-containing-character.cpp",
           "sha": "2fcf3ee4316206d013a5c9b9f523b1a87024454d",
           "lastSyncedAt": "2026-10-02T19:42:40.741Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3019",
+      "title": "Number of Changing Keys",
+      "slug": "number-of-changing-keys",
+      "problemName": "3019-number-of-changing-keys",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-changing-keys/",
+      "folderPath": "3019-number-of-changing-keys/",
+      "readmePath": "3019-number-of-changing-keys/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3019-number-of-changing-keys.cpp",
+          "path": "3019-number-of-changing-keys/3019-number-of-changing-keys.cpp",
+          "sha": "0f549b79d54983b66b1cca8644dfbdeb37ed2efc",
+          "lastSyncedAt": "2026-10-02T19:43:52.762Z"
         }
       ]
     },
