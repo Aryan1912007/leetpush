@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "number-theory",
+    "name": "Number Theory"
+  },
+  "updatedAt": "2026-10-02T19:43:42.636Z",
+  "problems": [
+    {
+      "frontendId": "2413",
+      "title": "Smallest Even Multiple",
+      "slug": "smallest-even-multiple",
+      "problemName": "2413-smallest-even-multiple",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-even-multiple/",
+      "folderPath": "2413-smallest-even-multiple/",
+      "readmePath": "2413-smallest-even-multiple/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2413-smallest-even-multiple.cpp",
+          "path": "2413-smallest-even-multiple/2413-smallest-even-multiple.cpp",
+          "sha": "d688d049314d11681a80abd1a6dcdc8561d24979",
+          "lastSyncedAt": "2026-10-02T19:43:42.636Z"
+        }
+      ]
+    }
+  ]
+}
