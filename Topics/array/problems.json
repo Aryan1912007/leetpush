@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T19:44:28.205Z",
+  "updatedAt": "2026-10-02T19:45:10.315Z",
   "problems": [
     {
       "frontendId": "35",
@@ -163,6 +163,26 @@
           "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.cpp",
           "sha": "6fd0873947cab8d6bf18c55e0663b3fcb87bb545",
           "lastSyncedAt": "2026-10-02T19:42:48.159Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2798",
+      "title": "Number of Employees Who Met the Target",
+      "slug": "number-of-employees-who-met-the-target",
+      "problemName": "2798-number-of-employees-who-met-the-target",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-employees-who-met-the-target/",
+      "folderPath": "2798-number-of-employees-who-met-the-target/",
+      "readmePath": "2798-number-of-employees-who-met-the-target/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2798-number-of-employees-who-met-the-target.cpp",
+          "path": "2798-number-of-employees-who-met-the-target/2798-number-of-employees-who-met-the-target.cpp",
+          "sha": "fca03373494771e4eea5ed04ef3bc06d970d8c09",
+          "lastSyncedAt": "2026-10-02T19:45:10.315Z"
         }
       ]
     },
