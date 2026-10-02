@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-02T19:45:42.583Z",
+  "updatedAt": "2026-10-02T19:46:17.572Z",
   "problems": [
     {
       "frontendId": "20",
@@ -243,6 +243,26 @@
           "path": "3019-number-of-changing-keys/3019-number-of-changing-keys.cpp",
           "sha": "0f549b79d54983b66b1cca8644dfbdeb37ed2efc",
           "lastSyncedAt": "2026-10-02T19:43:52.762Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3110",
+      "title": "Score of a String",
+      "slug": "score-of-a-string",
+      "problemName": "3110-score-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/score-of-a-string/",
+      "folderPath": "3110-score-of-a-string/",
+      "readmePath": "3110-score-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3110-score-of-a-string.cpp",
+          "path": "3110-score-of-a-string/3110-score-of-a-string.cpp",
+          "sha": "c02825d32d7eff770723bc878ec6cf1fd1342720",
+          "lastSyncedAt": "2026-10-02T19:46:17.572Z"
         }
       ]
     },
