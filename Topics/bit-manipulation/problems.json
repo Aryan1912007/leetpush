@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-02T19:41:03.132Z",
+  "updatedAt": "2026-10-02T19:41:08.358Z",
   "problems": [
     {
       "frontendId": "2425",
@@ -43,6 +43,26 @@
           "path": "2595-number-of-even-and-odd-bits/2595-number-of-even-and-odd-bits.cpp",
           "sha": "9788737d16d22366c9004780cf41cd55f4836dc4",
           "lastSyncedAt": "2026-10-02T19:41:03.132Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2980",
+      "title": "Check if Bitwise OR Has Trailing Zeros",
+      "slug": "check-if-bitwise-or-has-trailing-zeros",
+      "problemName": "2980-check-if-bitwise-or-has-trailing-zeros",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/",
+      "folderPath": "2980-check-if-bitwise-or-has-trailing-zeros/",
+      "readmePath": "2980-check-if-bitwise-or-has-trailing-zeros/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2980-check-if-bitwise-or-has-trailing-zeros.cpp",
+          "path": "2980-check-if-bitwise-or-has-trailing-zeros/2980-check-if-bitwise-or-has-trailing-zeros.cpp",
+          "sha": "7c46c435a63ec1f17a3bff43ed5e5ba6fd1189f9",
+          "lastSyncedAt": "2026-10-02T19:41:08.358Z"
         }
       ]
     }
