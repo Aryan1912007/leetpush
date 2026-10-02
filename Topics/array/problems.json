@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T19:50:04.445Z",
+  "updatedAt": "2026-10-02T19:50:20.681Z",
   "problems": [
     {
       "frontendId": "14",
@@ -443,6 +443,26 @@
           "path": "3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.cpp",
           "sha": "fea47960b700e80ebf19cc628a44f5173c4f4e4d",
           "lastSyncedAt": "2026-10-02T19:43:26.651Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3876",
+      "title": "Construct Uniform Parity Array II",
+      "slug": "construct-uniform-parity-array-ii",
+      "problemName": "3876-construct-uniform-parity-array-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-ii/",
+      "folderPath": "3876-construct-uniform-parity-array-ii/",
+      "readmePath": "3876-construct-uniform-parity-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3876-construct-uniform-parity-array-ii.cpp",
+          "path": "3876-construct-uniform-parity-array-ii/3876-construct-uniform-parity-array-ii.cpp",
+          "sha": "0b5e488c88aff02618d8b784c47c0ba668f0b631",
+          "lastSyncedAt": "2026-10-02T19:50:20.681Z"
         }
       ]
     },
