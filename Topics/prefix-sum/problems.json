@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-10-02T19:42:48.159Z",
+  "updatedAt": "2026-10-02T19:49:25.616Z",
   "problems": [
     {
       "frontendId": "2574",
@@ -23,6 +23,26 @@
           "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.cpp",
           "sha": "6fd0873947cab8d6bf18c55e0663b3fcb87bb545",
           "lastSyncedAt": "2026-10-02T19:42:48.159Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3904",
+      "title": "Smallest Stable Index II",
+      "slug": "smallest-stable-index-ii",
+      "problemName": "3904-smallest-stable-index-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-ii/",
+      "folderPath": "3904-smallest-stable-index-ii/",
+      "readmePath": "3904-smallest-stable-index-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3904-smallest-stable-index-ii.cpp",
+          "path": "3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.cpp",
+          "sha": "917dff4bb3e70cbb03939a9aeb08f2c50f2f6468",
+          "lastSyncedAt": "2026-10-02T19:49:25.616Z"
         }
       ]
     }
