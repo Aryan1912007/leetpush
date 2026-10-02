@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-02T19:50:20.681Z",
+  "updatedAt": "2026-10-02T19:50:31.132Z",
   "problems": [
     {
       "frontendId": "50",
@@ -463,6 +463,26 @@
           "path": "2652-sum-multiples/2652-sum-multiples.cpp",
           "sha": "3e7340091b347b2f3925d6993214f8f621c90caf",
           "lastSyncedAt": "2026-10-02T19:47:12.163Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2769",
+      "title": "Find the Maximum Achievable Number",
+      "slug": "find-the-maximum-achievable-number",
+      "problemName": "2769-find-the-maximum-achievable-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-maximum-achievable-number/",
+      "folderPath": "2769-find-the-maximum-achievable-number/",
+      "readmePath": "2769-find-the-maximum-achievable-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2769-find-the-maximum-achievable-number.cpp",
+          "path": "2769-find-the-maximum-achievable-number/2769-find-the-maximum-achievable-number.cpp",
+          "sha": "c11bf9d0e65bb14fb196d96ccc45a99ea3167a0f",
+          "lastSyncedAt": "2026-10-02T19:50:31.132Z"
         }
       ]
     },
