@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T19:42:08.419Z",
+  "updatedAt": "2026-10-02T19:42:40.741Z",
   "problems": [
     {
       "frontendId": "1295",
@@ -63,6 +63,26 @@
           "path": "2425-bitwise-xor-of-all-pairings/2425-bitwise-xor-of-all-pairings.cpp",
           "sha": "75eeed4f6089984264b71cf15f82a30883fc5e1d",
           "lastSyncedAt": "2026-10-02T19:40:47.940Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2942",
+      "title": "Find Words Containing Character",
+      "slug": "find-words-containing-character",
+      "problemName": "2942-find-words-containing-character",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-words-containing-character/",
+      "folderPath": "2942-find-words-containing-character/",
+      "readmePath": "2942-find-words-containing-character/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2942-find-words-containing-character.cpp",
+          "path": "2942-find-words-containing-character/2942-find-words-containing-character.cpp",
+          "sha": "2fcf3ee4316206d013a5c9b9f523b1a87024454d",
+          "lastSyncedAt": "2026-10-02T19:42:40.741Z"
         }
       ]
     },
