@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T19:47:30.164Z",
+  "updatedAt": "2026-10-02T19:47:38.870Z",
   "problems": [
     {
       "frontendId": "14",
@@ -43,6 +43,26 @@
           "path": "0035-search-insert-position/0035-search-insert-position.cpp",
           "sha": "10a94b342acbd15729c3d1f555b32f22b20b5550",
           "lastSyncedAt": "2026-10-02T19:44:28.205Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "989",
+      "title": "Add to Array-Form of Integer",
+      "slug": "add-to-array-form-of-integer",
+      "problemName": "0989-add-to-array-form-of-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-to-array-form-of-integer/",
+      "folderPath": "0989-add-to-array-form-of-integer/",
+      "readmePath": "0989-add-to-array-form-of-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0989-add-to-array-form-of-integer.cpp",
+          "path": "0989-add-to-array-form-of-integer/0989-add-to-array-form-of-integer.cpp",
+          "sha": "c95b88e72a670a285b3dc9a582194d6536761f0c",
+          "lastSyncedAt": "2026-10-02T19:47:38.870Z"
         }
       ]
     },
