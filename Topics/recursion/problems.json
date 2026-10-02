@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-10-02T19:49:45.540Z",
+  "updatedAt": "2026-10-02T19:49:53.031Z",
   "problems": [
     {
       "frontendId": "50",
@@ -23,6 +23,26 @@
           "path": "0050-powx-n/0050-powx-n.cpp",
           "sha": "f8655afbae2e52e5bce618fe4ffb523333c69171",
           "lastSyncedAt": "2026-10-02T19:49:45.540Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "problemName": "0231-power-of-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+      "folderPath": "0231-power-of-two/",
+      "readmePath": "0231-power-of-two/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0231-power-of-two.cpp",
+          "path": "0231-power-of-two/0231-power-of-two.cpp",
+          "sha": "0d52f394274c3ba83c8c37210f44ca87e02f5edf",
+          "lastSyncedAt": "2026-10-02T19:49:53.031Z"
         }
       ]
     },
