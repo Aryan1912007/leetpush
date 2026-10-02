@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-02T19:45:16.853Z",
+  "updatedAt": "2026-10-02T19:45:23.041Z",
   "problems": [
     {
       "frontendId": "20",
@@ -43,6 +43,26 @@
           "path": "0058-length-of-last-word/0058-length-of-last-word.cpp",
           "sha": "574e644a2242f13462a5303fad64f10900c69831",
           "lastSyncedAt": "2026-10-02T19:43:20.788Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "0392-is-subsequence/",
+      "readmePath": "0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0392-is-subsequence.cpp",
+          "path": "0392-is-subsequence/0392-is-subsequence.cpp",
+          "sha": "efbc30673c619872febc23730158785e1b07e073",
+          "lastSyncedAt": "2026-10-02T19:45:23.041Z"
         }
       ]
     },
