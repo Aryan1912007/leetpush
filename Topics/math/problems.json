@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-02T19:45:36.304Z",
+  "updatedAt": "2026-10-02T19:45:53.805Z",
   "problems": [
     {
       "frontendId": "412",
@@ -123,6 +123,26 @@
           "path": "2413-smallest-even-multiple/2413-smallest-even-multiple.cpp",
           "sha": "d688d049314d11681a80abd1a6dcdc8561d24979",
           "lastSyncedAt": "2026-10-02T19:43:42.636Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2469",
+      "title": "Convert the Temperature",
+      "slug": "convert-the-temperature",
+      "problemName": "2469-convert-the-temperature",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-the-temperature/",
+      "folderPath": "2469-convert-the-temperature/",
+      "readmePath": "2469-convert-the-temperature/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2469-convert-the-temperature.cpp",
+          "path": "2469-convert-the-temperature/2469-convert-the-temperature.cpp",
+          "sha": "83b3fca4ead2ae8e2dffa30d5a7e4457f943e83f",
+          "lastSyncedAt": "2026-10-02T19:45:53.805Z"
         }
       ]
     },
