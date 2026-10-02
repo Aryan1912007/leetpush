@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T19:44:16.224Z",
+  "updatedAt": "2026-10-02T19:44:21.965Z",
   "problems": [
     {
       "frontendId": "1295",
@@ -183,6 +183,26 @@
           "path": "2980-check-if-bitwise-or-has-trailing-zeros/2980-check-if-bitwise-or-has-trailing-zeros.cpp",
           "sha": "7c46c435a63ec1f17a3bff43ed5e5ba6fd1189f9",
           "lastSyncedAt": "2026-10-02T19:41:08.358Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3065",
+      "title": "Minimum Operations to Exceed Threshold Value I",
+      "slug": "minimum-operations-to-exceed-threshold-value-i",
+      "problemName": "3065-minimum-operations-to-exceed-threshold-value-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/",
+      "folderPath": "3065-minimum-operations-to-exceed-threshold-value-i/",
+      "readmePath": "3065-minimum-operations-to-exceed-threshold-value-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3065-minimum-operations-to-exceed-threshold-value-i.cpp",
+          "path": "3065-minimum-operations-to-exceed-threshold-value-i/3065-minimum-operations-to-exceed-threshold-value-i.cpp",
+          "sha": "a0fde852e5624ef8771e8467ef1f40c4e587731d",
+          "lastSyncedAt": "2026-10-02T19:44:21.965Z"
         }
       ]
     },
