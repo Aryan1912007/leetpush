@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-02T19:47:18.392Z",
+  "updatedAt": "2026-10-02T19:47:30.164Z",
   "problems": [
     {
       "frontendId": "258",
@@ -243,6 +243,26 @@
           "path": "2520-count-the-digits-that-divide-a-number/2520-count-the-digits-that-divide-a-number.cpp",
           "sha": "2136023e8c3017304f1eca2c2a505f0dac9591ed",
           "lastSyncedAt": "2026-10-02T19:45:36.304Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2535",
+      "title": "Difference Between Element Sum and Digit Sum of an Array",
+      "slug": "difference-between-element-sum-and-digit-sum-of-an-array",
+      "problemName": "2535-difference-between-element-sum-and-digit-sum-of-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/",
+      "folderPath": "2535-difference-between-element-sum-and-digit-sum-of-an-array/",
+      "readmePath": "2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2535-difference-between-element-sum-and-digit-sum-of-an-array.cpp",
+          "path": "2535-difference-between-element-sum-and-digit-sum-of-an-array/2535-difference-between-element-sum-and-digit-sum-of-an-array.cpp",
+          "sha": "9339aee01b8e86388bac481171dc759904371dc4",
+          "lastSyncedAt": "2026-10-02T19:47:30.164Z"
         }
       ]
     },
