@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T19:41:08.358Z",
+  "updatedAt": "2026-10-02T19:41:21.181Z",
   "problems": [
     {
       "frontendId": "2425",
@@ -43,6 +43,26 @@
           "path": "2980-check-if-bitwise-or-has-trailing-zeros/2980-check-if-bitwise-or-has-trailing-zeros.cpp",
           "sha": "7c46c435a63ec1f17a3bff43ed5e5ba6fd1189f9",
           "lastSyncedAt": "2026-10-02T19:41:08.358Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4061",
+      "title": "Minimum Queen Moves to Reach Target",
+      "slug": "minimum-queen-moves-to-reach-target",
+      "problemName": "4061-minimum-queen-moves-to-reach-target",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-queen-moves-to-reach-target/",
+      "folderPath": "4061-minimum-queen-moves-to-reach-target/",
+      "readmePath": "4061-minimum-queen-moves-to-reach-target/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "4061-minimum-queen-moves-to-reach-target.cpp",
+          "path": "4061-minimum-queen-moves-to-reach-target/4061-minimum-queen-moves-to-reach-target.cpp",
+          "sha": "a42e5ee8d19df23c866237f3099fe062b8043ec1",
+          "lastSyncedAt": "2026-10-02T19:41:21.181Z"
         }
       ]
     }
