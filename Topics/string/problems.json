@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-02T19:44:54.941Z",
+  "updatedAt": "2026-10-02T19:45:02.621Z",
   "problems": [
     {
       "frontendId": "20",
@@ -63,6 +63,26 @@
           "path": "0412-fizz-buzz/0412-fizz-buzz.cpp",
           "sha": "b019eaa12261c4fadce002b8f2ca4851bfaa30e9",
           "lastSyncedAt": "2026-10-02T19:44:06.987Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1108",
+      "title": "Defanging an IP Address",
+      "slug": "defanging-an-ip-address",
+      "problemName": "1108-defanging-an-ip-address",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/defanging-an-ip-address/",
+      "folderPath": "1108-defanging-an-ip-address/",
+      "readmePath": "1108-defanging-an-ip-address/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1108-defanging-an-ip-address.cpp",
+          "path": "1108-defanging-an-ip-address/1108-defanging-an-ip-address.cpp",
+          "sha": "d2d76d3aba8e675caf88501c9217295a8971f31d",
+          "lastSyncedAt": "2026-10-02T19:45:02.621Z"
         }
       ]
     },
