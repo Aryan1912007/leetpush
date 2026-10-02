@@ -4,6 +4,27 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-02T19:39:55.145Z",
-  "problems": []
+  "updatedAt": "2026-10-02T19:42:08.419Z",
+  "problems": [
+    {
+      "frontendId": "4065",
+      "title": "Rearrange Array by Removing Distinct Values",
+      "slug": "rearrange-array-by-removing-distinct-values",
+      "problemName": "4065-rearrange-array-by-removing-distinct-values",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/",
+      "folderPath": "4065-rearrange-array-by-removing-distinct-values/",
+      "readmePath": "4065-rearrange-array-by-removing-distinct-values/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "4065-rearrange-array-by-removing-distinct-values.cpp",
+          "path": "4065-rearrange-array-by-removing-distinct-values/4065-rearrange-array-by-removing-distinct-values.cpp",
+          "sha": "5ce346ce13435bf236a39050ad661bbcc9547933",
+          "lastSyncedAt": "2026-10-02T19:42:08.419Z"
+        }
+      ]
+    }
+  ]
 }
