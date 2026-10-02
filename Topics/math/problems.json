@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-02T19:49:12.572Z",
+  "updatedAt": "2026-10-02T19:49:19.813Z",
   "problems": [
     {
       "frontendId": "69",
@@ -503,6 +503,26 @@
           "path": "3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.cpp",
           "sha": "fea47960b700e80ebf19cc628a44f5173c4f4e4d",
           "lastSyncedAt": "2026-10-02T19:43:26.651Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3870",
+      "title": "Count Commas in Range",
+      "slug": "count-commas-in-range",
+      "problemName": "3870-count-commas-in-range",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-commas-in-range/",
+      "folderPath": "3870-count-commas-in-range/",
+      "readmePath": "3870-count-commas-in-range/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3870-count-commas-in-range.cpp",
+          "path": "3870-count-commas-in-range/3870-count-commas-in-range.cpp",
+          "sha": "6038b1f7d3ce5c2a9e748f675c9bcf4909838120",
+          "lastSyncedAt": "2026-10-02T19:49:19.813Z"
         }
       ]
     },
