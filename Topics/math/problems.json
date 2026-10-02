@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-02T19:49:06.024Z",
+  "updatedAt": "2026-10-02T19:49:12.572Z",
   "problems": [
     {
       "frontendId": "69",
@@ -223,6 +223,26 @@
           "path": "1837-sum-of-digits-in-base-k/1837-sum-of-digits-in-base-k.cpp",
           "sha": "829a985ac2c4f109bed89be47383e6869cf2045f",
           "lastSyncedAt": "2026-10-02T19:42:34.187Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2177",
+      "title": "Find Three Consecutive Integers That Sum to a Given Number",
+      "slug": "find-three-consecutive-integers-that-sum-to-a-given-number",
+      "problemName": "2177-find-three-consecutive-integers-that-sum-to-a-given-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/",
+      "folderPath": "2177-find-three-consecutive-integers-that-sum-to-a-given-number/",
+      "readmePath": "2177-find-three-consecutive-integers-that-sum-to-a-given-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2177-find-three-consecutive-integers-that-sum-to-a-given-number.cpp",
+          "path": "2177-find-three-consecutive-integers-that-sum-to-a-given-number/2177-find-three-consecutive-integers-that-sum-to-a-given-number.cpp",
+          "sha": "6b9b8ab9d084236e26cccb33289a3033a8306aa2",
+          "lastSyncedAt": "2026-10-02T19:49:12.572Z"
         }
       ]
     },
