@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-10-02T19:42:57.932Z",
+  "updatedAt": "2026-10-02T19:44:28.205Z",
   "problems": [
+    {
+      "frontendId": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "problemName": "0035-search-insert-position",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+      "folderPath": "0035-search-insert-position/",
+      "readmePath": "0035-search-insert-position/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0035-search-insert-position.cpp",
+          "path": "0035-search-insert-position/0035-search-insert-position.cpp",
+          "sha": "10a94b342acbd15729c3d1f555b32f22b20b5550",
+          "lastSyncedAt": "2026-10-02T19:44:28.205Z"
+        }
+      ]
+    },
     {
       "frontendId": "2089",
       "title": "Find Target Indices After Sorting Array",
