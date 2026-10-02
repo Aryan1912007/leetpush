@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-02T19:42:40.741Z",
+  "updatedAt": "2026-10-02T19:43:14.250Z",
   "problems": [
     {
       "frontendId": "20",
@@ -83,6 +83,26 @@
           "path": "2942-find-words-containing-character/2942-find-words-containing-character.cpp",
           "sha": "2fcf3ee4316206d013a5c9b9f523b1a87024454d",
           "lastSyncedAt": "2026-10-02T19:42:40.741Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3798",
+      "title": "Largest Even Number",
+      "slug": "largest-even-number",
+      "problemName": "3798-largest-even-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-even-number/",
+      "folderPath": "3798-largest-even-number/",
+      "readmePath": "3798-largest-even-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3798-largest-even-number.cpp",
+          "path": "3798-largest-even-number/3798-largest-even-number.cpp",
+          "sha": "f1213de5b792b87dbcb8b354b66f409d183ba866",
+          "lastSyncedAt": "2026-10-02T19:43:14.250Z"
         }
       ]
     }
