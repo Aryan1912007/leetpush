@@ -4,6 +4,27 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-02T19:39:55.145Z",
-  "problems": []
+  "updatedAt": "2026-10-02T19:40:47.940Z",
+  "problems": [
+    {
+      "frontendId": "2425",
+      "title": "Bitwise XOR of All Pairings",
+      "slug": "bitwise-xor-of-all-pairings",
+      "problemName": "2425-bitwise-xor-of-all-pairings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/bitwise-xor-of-all-pairings/",
+      "folderPath": "2425-bitwise-xor-of-all-pairings/",
+      "readmePath": "2425-bitwise-xor-of-all-pairings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2425-bitwise-xor-of-all-pairings.cpp",
+          "path": "2425-bitwise-xor-of-all-pairings/2425-bitwise-xor-of-all-pairings.cpp",
+          "sha": "75eeed4f6089984264b71cf15f82a30883fc5e1d",
+          "lastSyncedAt": "2026-10-02T19:40:47.940Z"
+        }
+      ]
+    }
+  ]
 }
