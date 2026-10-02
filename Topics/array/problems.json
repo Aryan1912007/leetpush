@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T19:47:54.322Z",
+  "updatedAt": "2026-10-02T19:48:25.845Z",
   "problems": [
     {
       "frontendId": "14",
@@ -123,6 +123,26 @@
           "path": "1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.cpp",
           "sha": "f27fee97a021c5e4cd1976b9b588de00adba377d",
           "lastSyncedAt": "2026-10-02T19:42:00.254Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1920",
+      "title": "Build Array from Permutation",
+      "slug": "build-array-from-permutation",
+      "problemName": "1920-build-array-from-permutation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/build-array-from-permutation/",
+      "folderPath": "1920-build-array-from-permutation/",
+      "readmePath": "1920-build-array-from-permutation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1920-build-array-from-permutation.cpp",
+          "path": "1920-build-array-from-permutation/1920-build-array-from-permutation.cpp",
+          "sha": "ff8e22a25256b4f694acbe2095223f2b02ed99e4",
+          "lastSyncedAt": "2026-10-02T19:48:25.845Z"
         }
       ]
     },
