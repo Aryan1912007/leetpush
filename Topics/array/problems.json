@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T19:43:26.651Z",
+  "updatedAt": "2026-10-02T19:43:34.472Z",
   "problems": [
     {
       "frontendId": "1295",
@@ -63,6 +63,26 @@
           "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.cpp",
           "sha": "3e25a68f03c48272aa28bbe6e7d643978d6b8104",
           "lastSyncedAt": "2026-10-02T19:42:57.932Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2114",
+      "title": "Maximum Number of Words Found in Sentences",
+      "slug": "maximum-number-of-words-found-in-sentences",
+      "problemName": "2114-maximum-number-of-words-found-in-sentences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/",
+      "folderPath": "2114-maximum-number-of-words-found-in-sentences/",
+      "readmePath": "2114-maximum-number-of-words-found-in-sentences/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2114-maximum-number-of-words-found-in-sentences.cpp",
+          "path": "2114-maximum-number-of-words-found-in-sentences/2114-maximum-number-of-words-found-in-sentences.cpp",
+          "sha": "a85b241ad4549f32a24dde46e23aff1565e27db2",
+          "lastSyncedAt": "2026-10-02T19:43:34.472Z"
         }
       ]
     },
