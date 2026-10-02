@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-10-02T19:40:49.118Z",
+  "updatedAt": "2026-10-02T19:42:08.419Z",
   "problems": [
     {
       "frontendId": "2180",
@@ -23,6 +23,26 @@
           "path": "2180-count-integers-with-even-digit-sum/2180-count-integers-with-even-digit-sum.cpp",
           "sha": "0109efe12ef4465398034bf46aaad6270081ecc6",
           "lastSyncedAt": "2026-10-02T19:40:49.118Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4065",
+      "title": "Rearrange Array by Removing Distinct Values",
+      "slug": "rearrange-array-by-removing-distinct-values",
+      "problemName": "4065-rearrange-array-by-removing-distinct-values",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/",
+      "folderPath": "4065-rearrange-array-by-removing-distinct-values/",
+      "readmePath": "4065-rearrange-array-by-removing-distinct-values/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "4065-rearrange-array-by-removing-distinct-values.cpp",
+          "path": "4065-rearrange-array-by-removing-distinct-values/4065-rearrange-array-by-removing-distinct-values.cpp",
+          "sha": "5ce346ce13435bf236a39050ad661bbcc9547933",
+          "lastSyncedAt": "2026-10-02T19:42:08.419Z"
         }
       ]
     }
