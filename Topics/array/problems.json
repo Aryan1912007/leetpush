@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T19:44:21.965Z",
+  "updatedAt": "2026-10-02T19:44:28.205Z",
   "problems": [
+    {
+      "frontendId": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "problemName": "0035-search-insert-position",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+      "folderPath": "0035-search-insert-position/",
+      "readmePath": "0035-search-insert-position/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0035-search-insert-position.cpp",
+          "path": "0035-search-insert-position/0035-search-insert-position.cpp",
+          "sha": "10a94b342acbd15729c3d1f555b32f22b20b5550",
+          "lastSyncedAt": "2026-10-02T19:44:28.205Z"
+        }
+      ]
+    },
     {
       "frontendId": "1295",
       "title": "Find Numbers with Even Number of Digits",
