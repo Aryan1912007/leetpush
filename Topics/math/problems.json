@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-02T19:41:28.490Z",
+  "updatedAt": "2026-10-02T19:42:34.187Z",
   "problems": [
     {
       "frontendId": "1295",
@@ -43,6 +43,26 @@
           "path": "1523-count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.cpp",
           "sha": "cdc6511688a2bd1ef0eebbdc58f5472435da4d58",
           "lastSyncedAt": "2026-10-02T19:41:15.854Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1837",
+      "title": "Sum of Digits in Base K",
+      "slug": "sum-of-digits-in-base-k",
+      "problemName": "1837-sum-of-digits-in-base-k",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-digits-in-base-k/",
+      "folderPath": "1837-sum-of-digits-in-base-k/",
+      "readmePath": "1837-sum-of-digits-in-base-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1837-sum-of-digits-in-base-k.cpp",
+          "path": "1837-sum-of-digits-in-base-k/1837-sum-of-digits-in-base-k.cpp",
+          "sha": "829a985ac2c4f109bed89be47383e6869cf2045f",
+          "lastSyncedAt": "2026-10-02T19:42:34.187Z"
         }
       ]
     },
