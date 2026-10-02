@@ -4,8 +4,28 @@
     "slug": "brainteaser",
     "name": "Brainteaser"
   },
-  "updatedAt": "2026-10-02T19:40:47.940Z",
+  "updatedAt": "2026-10-02T19:46:07.230Z",
   "problems": [
+    {
+      "frontendId": "2396",
+      "title": "Strictly Palindromic Number",
+      "slug": "strictly-palindromic-number",
+      "problemName": "2396-strictly-palindromic-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/strictly-palindromic-number/",
+      "folderPath": "2396-strictly-palindromic-number/",
+      "readmePath": "2396-strictly-palindromic-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2396-strictly-palindromic-number.cpp",
+          "path": "2396-strictly-palindromic-number/2396-strictly-palindromic-number.cpp",
+          "sha": "74a86e6c994991ddfd5de0a8ddf26dfca6b367c1",
+          "lastSyncedAt": "2026-10-02T19:46:07.230Z"
+        }
+      ]
+    },
     {
       "frontendId": "2425",
       "title": "Bitwise XOR of All Pairings",
