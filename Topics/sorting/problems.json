@@ -4,8 +4,28 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-02T19:42:08.419Z",
+  "updatedAt": "2026-10-02T19:42:57.932Z",
   "problems": [
+    {
+      "frontendId": "2089",
+      "title": "Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "problemName": "2089-find-target-indices-after-sorting-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+      "folderPath": "2089-find-target-indices-after-sorting-array/",
+      "readmePath": "2089-find-target-indices-after-sorting-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2089-find-target-indices-after-sorting-array.cpp",
+          "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.cpp",
+          "sha": "3e25a68f03c48272aa28bbe6e7d643978d6b8104",
+          "lastSyncedAt": "2026-10-02T19:42:57.932Z"
+        }
+      ]
+    },
     {
       "frontendId": "4065",
       "title": "Rearrange Array by Removing Distinct Values",
