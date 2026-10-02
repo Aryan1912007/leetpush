@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-10-02T19:46:07.230Z",
+  "updatedAt": "2026-10-02T19:50:48.090Z",
   "problems": [
+    {
+      "frontendId": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "problemName": "0026-remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "folderPath": "0026-remove-duplicates-from-sorted-array/",
+      "readmePath": "0026-remove-duplicates-from-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0026-remove-duplicates-from-sorted-array.cpp",
+          "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.cpp",
+          "sha": "b5a836223a8bf26d32f80ca393cb37d671c6be22",
+          "lastSyncedAt": "2026-10-02T19:50:48.090Z"
+        }
+      ]
+    },
     {
       "frontendId": "392",
       "title": "Is Subsequence",
