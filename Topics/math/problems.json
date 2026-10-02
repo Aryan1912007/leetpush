@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-02T19:43:07.807Z",
+  "updatedAt": "2026-10-02T19:43:26.651Z",
   "problems": [
     {
       "frontendId": "1295",
@@ -103,6 +103,26 @@
           "path": "3099-harshad-number/3099-harshad-number.cpp",
           "sha": "d5a0c0f1e15e89765c01da32c4f84a46015201e0",
           "lastSyncedAt": "2026-10-02T19:43:07.807Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3550",
+      "title": "Smallest Index With Digit Sum Equal to Index",
+      "slug": "smallest-index-with-digit-sum-equal-to-index",
+      "problemName": "3550-smallest-index-with-digit-sum-equal-to-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
+      "folderPath": "3550-smallest-index-with-digit-sum-equal-to-index/",
+      "readmePath": "3550-smallest-index-with-digit-sum-equal-to-index/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3550-smallest-index-with-digit-sum-equal-to-index.cpp",
+          "path": "3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.cpp",
+          "sha": "fea47960b700e80ebf19cc628a44f5173c4f4e4d",
+          "lastSyncedAt": "2026-10-02T19:43:26.651Z"
         }
       ]
     },
