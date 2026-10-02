@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-02T19:42:34.187Z",
+  "updatedAt": "2026-10-02T19:43:07.807Z",
   "problems": [
     {
       "frontendId": "1295",
@@ -83,6 +83,26 @@
           "path": "2180-count-integers-with-even-digit-sum/2180-count-integers-with-even-digit-sum.cpp",
           "sha": "0109efe12ef4465398034bf46aaad6270081ecc6",
           "lastSyncedAt": "2026-10-02T19:40:49.118Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3099",
+      "title": "Harshad Number",
+      "slug": "harshad-number",
+      "problemName": "3099-harshad-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/harshad-number/",
+      "folderPath": "3099-harshad-number/",
+      "readmePath": "3099-harshad-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3099-harshad-number.cpp",
+          "path": "3099-harshad-number/3099-harshad-number.cpp",
+          "sha": "d5a0c0f1e15e89765c01da32c4f84a46015201e0",
+          "lastSyncedAt": "2026-10-02T19:43:07.807Z"
         }
       ]
     },
