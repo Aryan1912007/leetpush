@@ -4,8 +4,28 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-02T19:46:46.752Z",
+  "updatedAt": "2026-10-02T19:48:47.777Z",
   "problems": [
+    {
+      "frontendId": "342",
+      "title": "Power of Four",
+      "slug": "power-of-four",
+      "problemName": "0342-power-of-four",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-four/",
+      "folderPath": "0342-power-of-four/",
+      "readmePath": "0342-power-of-four/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0342-power-of-four.cpp",
+          "path": "0342-power-of-four/0342-power-of-four.cpp",
+          "sha": "39d109b028d6571787b3bc42881a6e90af7aea69",
+          "lastSyncedAt": "2026-10-02T19:48:47.777Z"
+        }
+      ]
+    },
     {
       "frontendId": "1486",
       "title": "XOR Operation in an Array",
