@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum"
+  },
+  "updatedAt": "2026-10-02T19:42:48.159Z",
+  "problems": [
+    {
+      "frontendId": "2574",
+      "title": "Left and Right Sum Differences",
+      "slug": "left-and-right-sum-differences",
+      "problemName": "2574-left-and-right-sum-differences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/left-and-right-sum-differences/",
+      "folderPath": "2574-left-and-right-sum-differences/",
+      "readmePath": "2574-left-and-right-sum-differences/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2574-left-and-right-sum-differences.cpp",
+          "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.cpp",
+          "sha": "6fd0873947cab8d6bf18c55e0663b3fcb87bb545",
+          "lastSyncedAt": "2026-10-02T19:42:48.159Z"
+        }
+      ]
+    }
+  ]
+}
