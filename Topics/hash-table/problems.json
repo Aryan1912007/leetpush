@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-02T19:47:54.322Z",
+  "updatedAt": "2026-10-02T19:49:36.743Z",
   "problems": [
     {
       "frontendId": "3483",
@@ -23,6 +23,26 @@
           "path": "3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.cpp",
           "sha": "f26116aa995a3a806fe86533e6f7f7d37162a0b2",
           "lastSyncedAt": "2026-10-02T19:47:54.322Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3760",
+      "title": "Maximum Substrings With Distinct Start",
+      "slug": "maximum-substrings-with-distinct-start",
+      "problemName": "3760-maximum-substrings-with-distinct-start",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-substrings-with-distinct-start/",
+      "folderPath": "3760-maximum-substrings-with-distinct-start/",
+      "readmePath": "3760-maximum-substrings-with-distinct-start/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3760-maximum-substrings-with-distinct-start.cpp",
+          "path": "3760-maximum-substrings-with-distinct-start/3760-maximum-substrings-with-distinct-start.cpp",
+          "sha": "e0bda3019034f22688cd6999fb9cfa71f4d95a00",
+          "lastSyncedAt": "2026-10-02T19:49:36.743Z"
         }
       ]
     },
