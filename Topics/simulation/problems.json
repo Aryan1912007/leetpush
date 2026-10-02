@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-10-02T19:44:06.987Z",
+  "updatedAt": "2026-10-02T19:44:54.941Z",
   "problems": [
     {
       "frontendId": "412",
@@ -43,6 +43,26 @@
           "path": "2180-count-integers-with-even-digit-sum/2180-count-integers-with-even-digit-sum.cpp",
           "sha": "0109efe12ef4465398034bf46aaad6270081ecc6",
           "lastSyncedAt": "2026-10-02T19:40:49.118Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3498",
+      "title": "Reverse Degree of a String",
+      "slug": "reverse-degree-of-a-string",
+      "problemName": "3498-reverse-degree-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-degree-of-a-string/",
+      "folderPath": "3498-reverse-degree-of-a-string/",
+      "readmePath": "3498-reverse-degree-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3498-reverse-degree-of-a-string.cpp",
+          "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.cpp",
+          "sha": "c9e18d9b82a7f396bd8eac169f846981b30d991e",
+          "lastSyncedAt": "2026-10-02T19:44:54.941Z"
         }
       ]
     },
