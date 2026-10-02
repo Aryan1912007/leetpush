@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-10-02T19:40:38.902Z",
+  "updatedAt": "2026-10-02T19:40:49.118Z",
   "problems": [
     {
       "frontendId": "2180",
@@ -22,7 +22,7 @@
           "filename": "2180-count-integers-with-even-digit-sum.cpp",
           "path": "2180-count-integers-with-even-digit-sum/2180-count-integers-with-even-digit-sum.cpp",
           "sha": "0109efe12ef4465398034bf46aaad6270081ecc6",
-          "lastSyncedAt": "2026-10-02T19:40:38.902Z"
+          "lastSyncedAt": "2026-10-02T19:40:49.118Z"
         }
       ]
     }
