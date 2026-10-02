@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T19:45:59.911Z",
+  "updatedAt": "2026-10-02T19:46:24.511Z",
   "problems": [
     {
       "frontendId": "35",
@@ -303,6 +303,26 @@
           "path": "3190-find-minimum-operations-to-make-all-elements-divisible-by-three/3190-find-minimum-operations-to-make-all-elements-divisible-by-three.cpp",
           "sha": "9722b2c570847164ec8d6c07ad8f775e13c1c7c3",
           "lastSyncedAt": "2026-10-02T19:43:59.617Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3232",
+      "title": "Find if Digit Game Can Be Won",
+      "slug": "find-if-digit-game-can-be-won",
+      "problemName": "3232-find-if-digit-game-can-be-won",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-if-digit-game-can-be-won/",
+      "folderPath": "3232-find-if-digit-game-can-be-won/",
+      "readmePath": "3232-find-if-digit-game-can-be-won/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3232-find-if-digit-game-can-be-won.cpp",
+          "path": "3232-find-if-digit-game-can-be-won/3232-find-if-digit-game-can-be-won.cpp",
+          "sha": "d5bc58cf4474fba78f87b9025d9aae9066beac3a",
+          "lastSyncedAt": "2026-10-02T19:46:24.511Z"
         }
       ]
     },
