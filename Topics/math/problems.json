@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-02T19:43:42.636Z",
+  "updatedAt": "2026-10-02T19:43:59.617Z",
   "problems": [
     {
       "frontendId": "1295",
@@ -123,6 +123,26 @@
           "path": "3099-harshad-number/3099-harshad-number.cpp",
           "sha": "d5a0c0f1e15e89765c01da32c4f84a46015201e0",
           "lastSyncedAt": "2026-10-02T19:43:07.807Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3190",
+      "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+      "slug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+      "problemName": "3190-find-minimum-operations-to-make-all-elements-divisible-by-three",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/",
+      "folderPath": "3190-find-minimum-operations-to-make-all-elements-divisible-by-three/",
+      "readmePath": "3190-find-minimum-operations-to-make-all-elements-divisible-by-three/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3190-find-minimum-operations-to-make-all-elements-divisible-by-three.cpp",
+          "path": "3190-find-minimum-operations-to-make-all-elements-divisible-by-three/3190-find-minimum-operations-to-make-all-elements-divisible-by-three.cpp",
+          "sha": "9722b2c570847164ec8d6c07ad8f775e13c1c7c3",
+          "lastSyncedAt": "2026-10-02T19:43:59.617Z"
         }
       ]
     },
