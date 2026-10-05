@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 75 | 65 | 10 | 0 |
+| 76 | 65 | 11 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 16 days | 30 |
+| 4 days | 16 days | 31 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-21 | 2 |
 | 2026-09-22 | 3 |
 | 2026-09-23 | 3 |
 | 2026-09-24 | 2 |
@@ -30,21 +29,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-03 | 2 |
 | 2026-10-04 | 1 |
 | 2026-10-05 | 1 |
+| 2026-10-06 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Math | 37 | 49% |
-| Array | 32 | 43% |
-| String | 18 | 24% |
+| Array | 32 | 42% |
+| String | 19 | 25% |
 | Simulation | 9 | 12% |
 | Bit Manipulation | 6 | 8% |
 | Hash Table | 6 | 8% |
 | Binary Search | 5 | 7% |
 | Recursion | 5 | 7% |
-| Two Pointers | 4 | 5% |
-| Bracket Sequences | 3 | 4% |
+| Bracket Sequences | 4 | 5% |
+| Stack | 4 | 5% |
 
 ## Topics
 
@@ -55,7 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 6 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 3 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 4 |
 | [Brainteaser](Topics/brainteaser/) | 2 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
@@ -80,8 +80,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Recursion](Topics/recursion/) | 5 |
 | [Simulation](Topics/simulation/) | 9 |
 | [Sorting](Topics/sorting/) | 3 |
-| [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 18 |
+| [Stack](Topics/stack/) | 4 |
+| [String](Topics/string/) | 19 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
