@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-03T06:48:53.080Z",
+  "updatedAt": "2026-10-05T05:30:43.303Z",
   "problems": [
+    {
+      "frontendId": "202",
+      "title": "Happy Number",
+      "slug": "happy-number",
+      "problemName": "0202-happy-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
+      "folderPath": "0202-happy-number/",
+      "readmePath": "0202-happy-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0202-happy-number.cpp",
+          "path": "0202-happy-number/0202-happy-number.cpp",
+          "sha": "00cefe9d1a2ee3f228bb7f3347793200a421a60e",
+          "lastSyncedAt": "2026-10-05T05:30:43.303Z"
+        }
+      ]
+    },
     {
       "frontendId": "217",
       "title": "Contains Duplicate",
