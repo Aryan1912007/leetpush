@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 76 | 65 | 11 | 0 |
+| 77 | 65 | 11 | 1 |
 
 ## Activity
 
@@ -29,20 +29,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-03 | 2 |
 | 2026-10-04 | 1 |
 | 2026-10-05 | 1 |
-| 2026-10-06 | 1 |
+| 2026-10-06 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 37 | 49% |
-| Array | 32 | 42% |
+| Math | 37 | 48% |
+| Array | 33 | 43% |
 | String | 19 | 25% |
 | Simulation | 9 | 12% |
 | Bit Manipulation | 6 | 8% |
 | Hash Table | 6 | 8% |
-| Binary Search | 5 | 7% |
-| Recursion | 5 | 7% |
+| Binary Search | 5 | 6% |
+| Recursion | 5 | 6% |
 | Bracket Sequences | 4 | 5% |
 | Stack | 4 | 5% |
 
@@ -50,8 +50,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 32 |
-| [Backtracking](Topics/backtracking/) | 0 |
+| [Algorithm X](Topics/algorithm-x/) | 1 |
+| [Array](Topics/array/) | 33 |
+| [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 6 |
