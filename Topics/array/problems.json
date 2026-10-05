@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-03T06:48:53.080Z",
+  "updatedAt": "2026-10-05T20:20:14.128Z",
   "problems": [
     {
       "frontendId": "14",
@@ -63,6 +63,26 @@
           "path": "0035-search-insert-position/0035-search-insert-position.cpp",
           "sha": "10a94b342acbd15729c3d1f555b32f22b20b5550",
           "lastSyncedAt": "2026-10-02T19:44:28.205Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "51",
+      "title": "N-Queens",
+      "slug": "n-queens",
+      "problemName": "0051-n-queens",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
+      "folderPath": "0051-n-queens/",
+      "readmePath": "0051-n-queens/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0051-n-queens.cpp",
+          "path": "0051-n-queens/0051-n-queens.cpp",
+          "sha": "a8b03a0c0a830808bda169ffb057b627653d786d",
+          "lastSyncedAt": "2026-10-05T20:20:14.128Z"
         }
       ]
     },
