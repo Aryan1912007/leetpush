@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 74 | 64 | 10 | 0 |
+| 75 | 65 | 10 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 16 days | 29 |
+| 3 days | 16 days | 30 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-20 | 3 |
 | 2026-09-21 | 2 |
 | 2026-09-22 | 3 |
 | 2026-09-23 | 3 |
@@ -30,21 +29,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-01 | 1 |
 | 2026-10-03 | 2 |
 | 2026-10-04 | 1 |
+| 2026-10-05 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 36 | 49% |
+| Math | 37 | 49% |
 | Array | 32 | 43% |
 | String | 18 | 24% |
 | Simulation | 9 | 12% |
 | Bit Manipulation | 6 | 8% |
+| Hash Table | 6 | 8% |
 | Binary Search | 5 | 7% |
-| Hash Table | 5 | 7% |
 | Recursion | 5 | 7% |
+| Two Pointers | 4 | 5% |
 | Bracket Sequences | 3 | 4% |
-| Prefix Sum | 3 | 4% |
 
 ## Topics
 
@@ -62,15 +62,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Enumeration](Topics/enumeration/) | 1 |
+| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 5 |
+| [Hash Table](Topics/hash-table/) | 6 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 35 |
+| [Math](Topics/math/) | 36 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 2 |
@@ -83,5 +84,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [String](Topics/string/) | 18 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 3 |
+| [Two Pointers](Topics/two-pointers/) | 4 |
 <!---LeetHub Summary End-->
