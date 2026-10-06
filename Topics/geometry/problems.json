@@ -4,7 +4,7 @@
     "slug": "geometry",
     "name": "Geometry"
   },
-  "updatedAt": "2026-10-02T19:46:56.185Z",
+  "updatedAt": "2026-10-06T05:34:55.565Z",
   "problems": [
     {
       "frontendId": "836",
@@ -23,6 +23,26 @@
           "path": "0836-rectangle-overlap/0836-rectangle-overlap.cpp",
           "sha": "c1e4368817af377f04e92e1235e6b0aa629fe23a",
           "lastSyncedAt": "2026-10-02T19:46:56.185Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1232",
+      "title": "Check If It Is a Straight Line",
+      "slug": "check-if-it-is-a-straight-line",
+      "problemName": "1232-check-if-it-is-a-straight-line",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-it-is-a-straight-line/",
+      "folderPath": "1232-check-if-it-is-a-straight-line/",
+      "readmePath": "1232-check-if-it-is-a-straight-line/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1232-check-if-it-is-a-straight-line.cpp",
+          "path": "1232-check-if-it-is-a-straight-line/1232-check-if-it-is-a-straight-line.cpp",
+          "sha": "12e6f8267753593005d732c2c919cca725a83fea",
+          "lastSyncedAt": "2026-10-06T05:34:55.565Z"
         }
       ]
     }
