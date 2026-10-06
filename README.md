@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 77 | 65 | 11 | 1 |
+| 78 | 66 | 11 | 1 |
 
 ## Activity
 
@@ -29,15 +29,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-03 | 2 |
 | 2026-10-04 | 1 |
 | 2026-10-05 | 1 |
-| 2026-10-06 | 2 |
+| 2026-10-06 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 37 | 48% |
-| Array | 33 | 43% |
-| String | 19 | 25% |
+| Math | 38 | 49% |
+| Array | 34 | 44% |
+| String | 19 | 24% |
 | Simulation | 9 | 12% |
 | Bit Manipulation | 6 | 8% |
 | Hash Table | 6 | 8% |
@@ -51,7 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 33 |
+| [Array](Topics/array/) | 34 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -64,7 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
-| [Geometry](Topics/geometry/) | 1 |
+| [Geometry](Topics/geometry/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 6 |
@@ -72,7 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 36 |
+| [Math](Topics/math/) | 37 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 2 |
