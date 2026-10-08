@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "stack",
-    "name": "Stack"
+    "name": "Stack",
+    "tagId": "15"
   },
-  "updatedAt": "2026-10-06T05:50:04.310Z",
+  "updatedAt": "2026-10-08T17:22:44.491Z",
   "problems": [
     {
       "frontendId": "20",
@@ -83,6 +84,26 @@
           "path": "0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.cpp",
           "sha": "50f018610eb0b06edf0379eec62046d7ce1f69b9",
           "lastSyncedAt": "2026-10-06T05:50:04.310Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1021",
+      "title": "Remove Outermost Parentheses",
+      "slug": "remove-outermost-parentheses",
+      "problemName": "1021-remove-outermost-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-outermost-parentheses/",
+      "folderPath": "1021-remove-outermost-parentheses/",
+      "readmePath": "1021-remove-outermost-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1021-remove-outermost-parentheses.cpp",
+          "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp",
+          "sha": "df763ae23072ff7fedfb05aa0541e24847dd41d4",
+          "lastSyncedAt": "2026-10-08T17:22:44.491Z"
         }
       ]
     },
