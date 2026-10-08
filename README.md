@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 78 | 66 | 11 | 1 |
+| 80 | 67 | 12 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 16 days | 31 |
+| 1 days | 16 days | 32 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-22 | 3 |
 | 2026-09-23 | 3 |
 | 2026-09-24 | 2 |
 | 2026-09-25 | 3 |
@@ -29,22 +28,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-03 | 2 |
 | 2026-10-04 | 1 |
 | 2026-10-05 | 1 |
-| 2026-10-06 | 3 |
+| 2026-10-06 | 4 |
+| 2026-10-08 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 38 | 49% |
-| Array | 34 | 44% |
-| String | 19 | 24% |
-| Simulation | 9 | 12% |
+| Math | 38 | 48% |
+| Array | 34 | 43% |
+| String | 21 | 26% |
+| Simulation | 9 | 11% |
 | Bit Manipulation | 6 | 8% |
+| Bracket Sequences | 6 | 8% |
 | Hash Table | 6 | 8% |
+| Stack | 6 | 8% |
 | Binary Search | 5 | 6% |
 | Recursion | 5 | 6% |
-| Bracket Sequences | 4 | 5% |
-| Stack | 4 | 5% |
 
 ## Topics
 
@@ -56,7 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 6 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 4 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 6 |
 | [Brainteaser](Topics/brainteaser/) | 2 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
@@ -66,7 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Geometry](Topics/geometry/) | 2 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 1 |
+| [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 6 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
@@ -81,8 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Recursion](Topics/recursion/) | 5 |
 | [Simulation](Topics/simulation/) | 9 |
 | [Sorting](Topics/sorting/) | 3 |
-| [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 19 |
+| [Stack](Topics/stack/) | 6 |
+| [String](Topics/string/) | 21 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
