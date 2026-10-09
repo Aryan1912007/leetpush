@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 81 | 67 | 13 | 1 |
+| 82 | 68 | 13 | 1 |
 
 ## Activity
 
@@ -29,14 +29,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-05 | 1 |
 | 2026-10-06 | 4 |
 | 2026-10-08 | 1 |
-| 2026-10-09 | 1 |
+| 2026-10-09 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 38 | 47% |
-| Array | 35 | 43% |
+| Math | 38 | 46% |
+| Array | 36 | 44% |
 | String | 21 | 26% |
 | Simulation | 9 | 11% |
 | Hash Table | 7 | 9% |
@@ -51,7 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 35 |
+| [Array](Topics/array/) | 36 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -83,10 +83,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 5 |
 | [Simulation](Topics/simulation/) | 9 |
-| [Sorting](Topics/sorting/) | 4 |
+| [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 6 |
 | [String](Topics/string/) | 21 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 4 |
+| [Two Pointers](Topics/two-pointers/) | 5 |
 <!---LeetHub Summary End-->
