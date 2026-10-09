@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "binary-search",
-    "name": "Binary Search"
+    "name": "Binary Search",
+    "tagId": "11"
   },
-  "updatedAt": "2026-10-02T19:48:34.832Z",
+  "updatedAt": "2026-10-09T12:10:17.372Z",
   "problems": [
     {
       "frontendId": "35",
@@ -43,6 +44,26 @@
           "path": "0069-sqrtx/0069-sqrtx.cpp",
           "sha": "e5ba3089304faac5574abe526be33ff723aabd94",
           "lastSyncedAt": "2026-10-02T19:48:34.832Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "167",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "problemName": "0167-two-sum-ii-input-array-is-sorted",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+      "folderPath": "0167-two-sum-ii-input-array-is-sorted/",
+      "readmePath": "0167-two-sum-ii-input-array-is-sorted/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0167-two-sum-ii-input-array-is-sorted.cpp",
+          "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.cpp",
+          "sha": "bc57604c3ff06d41b344f750ae0964d08362495d",
+          "lastSyncedAt": "2026-10-09T12:10:17.372Z"
         }
       ]
     },
