@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T12:10:17.372Z",
+  "updatedAt": "2026-10-10T19:59:00.478Z",
   "problems": [
     {
       "frontendId": "14",
@@ -404,6 +404,26 @@
           "path": "2535-difference-between-element-sum-and-digit-sum-of-an-array/2535-difference-between-element-sum-and-digit-sum-of-an-array.cpp",
           "sha": "9339aee01b8e86388bac481171dc759904371dc4",
           "lastSyncedAt": "2026-10-02T19:47:30.164Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2568",
+      "title": "Minimum Impossible OR",
+      "slug": "minimum-impossible-or",
+      "problemName": "2568-minimum-impossible-or",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-impossible-or/",
+      "folderPath": "2568-minimum-impossible-or/",
+      "readmePath": "2568-minimum-impossible-or/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2568-minimum-impossible-or.cpp",
+          "path": "2568-minimum-impossible-or/2568-minimum-impossible-or.cpp",
+          "sha": "3e1c33739f19fa1e08f4b4bc4453898cca5cb86f",
+          "lastSyncedAt": "2026-10-10T19:59:00.478Z"
         }
       ]
     },
