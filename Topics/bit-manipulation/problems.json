@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "bit-manipulation",
-    "name": "Bit Manipulation"
+    "name": "Bit Manipulation",
+    "tagId": "19"
   },
-  "updatedAt": "2026-10-02T19:49:53.031Z",
+  "updatedAt": "2026-10-10T19:59:00.478Z",
   "problems": [
     {
       "frontendId": "231",
@@ -83,6 +84,26 @@
           "path": "2425-bitwise-xor-of-all-pairings/2425-bitwise-xor-of-all-pairings.cpp",
           "sha": "75eeed4f6089984264b71cf15f82a30883fc5e1d",
           "lastSyncedAt": "2026-10-02T19:40:47.940Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2568",
+      "title": "Minimum Impossible OR",
+      "slug": "minimum-impossible-or",
+      "problemName": "2568-minimum-impossible-or",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-impossible-or/",
+      "folderPath": "2568-minimum-impossible-or/",
+      "readmePath": "2568-minimum-impossible-or/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2568-minimum-impossible-or.cpp",
+          "path": "2568-minimum-impossible-or/2568-minimum-impossible-or.cpp",
+          "sha": "3e1c33739f19fa1e08f4b4bc4453898cca5cb86f",
+          "lastSyncedAt": "2026-10-10T19:59:00.478Z"
         }
       ]
     },
