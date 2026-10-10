@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 82 | 68 | 13 | 1 |
+| 84 | 68 | 15 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 16 days | 33 |
+| 1 days | 16 days | 34 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-24 | 2 |
 | 2026-09-25 | 3 |
 | 2026-09-26 | 2 |
 | 2026-09-27 | 3 |
@@ -29,35 +28,36 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-05 | 1 |
 | 2026-10-06 | 4 |
 | 2026-10-08 | 1 |
-| 2026-10-09 | 2 |
+| 2026-10-09 | 3 |
+| 2026-10-11 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 38 | 46% |
-| Array | 36 | 44% |
-| String | 21 | 26% |
+| Array | 38 | 45% |
+| Math | 38 | 45% |
+| String | 21 | 25% |
 | Simulation | 9 | 11% |
-| Hash Table | 7 | 9% |
-| Bit Manipulation | 6 | 7% |
+| Bit Manipulation | 7 | 8% |
+| Hash Table | 7 | 8% |
+| Binary Search | 6 | 7% |
 | Bracket Sequences | 6 | 7% |
 | Stack | 6 | 7% |
-| Binary Search | 5 | 6% |
-| Recursion | 5 | 6% |
+| Two Pointers | 6 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 36 |
+| [Array](Topics/array/) | 38 |
 | [Backtracking](Topics/backtracking/) | 1 |
-| [Binary Search](Topics/binary-search/) | 5 |
+| [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 6 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 7 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 6 |
-| [Brainteaser](Topics/brainteaser/) | 2 |
+| [Brainteaser](Topics/brainteaser/) | 3 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting](Topics/counting/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
@@ -88,5 +88,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [String](Topics/string/) | 21 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 5 |
+| [Two Pointers](Topics/two-pointers/) | 6 |
 <!---LeetHub Summary End-->
