@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "enumeration",
-    "name": "Enumeration"
+    "name": "Enumeration",
+    "tagId": "61066"
   },
-  "updatedAt": "2026-10-02T19:47:54.322Z",
+  "updatedAt": "2026-10-11T10:18:28.124Z",
   "problems": [
+    {
+      "frontendId": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "slug": "sum-of-squares-of-special-elements",
+      "problemName": "2778-sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+      "folderPath": "2778-sum-of-squares-of-special-elements/",
+      "readmePath": "2778-sum-of-squares-of-special-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2778-sum-of-squares-of-special-elements.cpp",
+          "path": "2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.cpp",
+          "sha": "7940c320a4021d9c76cad2a086569a58ec871742",
+          "lastSyncedAt": "2026-10-11T10:18:28.124Z"
+        }
+      ]
+    },
     {
       "frontendId": "3483",
       "title": "Unique 3-Digit Even Numbers",
