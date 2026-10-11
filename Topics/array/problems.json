@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T20:19:21.108Z",
+  "updatedAt": "2026-10-11T10:18:28.124Z",
   "problems": [
     {
       "frontendId": "14",
@@ -444,6 +444,26 @@
           "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.cpp",
           "sha": "6fd0873947cab8d6bf18c55e0663b3fcb87bb545",
           "lastSyncedAt": "2026-10-02T19:42:48.159Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "slug": "sum-of-squares-of-special-elements",
+      "problemName": "2778-sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+      "folderPath": "2778-sum-of-squares-of-special-elements/",
+      "readmePath": "2778-sum-of-squares-of-special-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2778-sum-of-squares-of-special-elements.cpp",
+          "path": "2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.cpp",
+          "sha": "7940c320a4021d9c76cad2a086569a58ec871742",
+          "lastSyncedAt": "2026-10-11T10:18:28.124Z"
         }
       ]
     },
