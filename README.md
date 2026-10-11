@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 84 | 68 | 15 | 1 |
+| 87 | 70 | 16 | 1 |
 
 ## Activity
 
@@ -29,29 +29,29 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-06 | 4 |
 | 2026-10-08 | 1 |
 | 2026-10-09 | 3 |
-| 2026-10-11 | 1 |
+| 2026-10-11 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 38 | 45% |
-| Math | 38 | 45% |
-| String | 21 | 25% |
-| Simulation | 9 | 11% |
+| Array | 40 | 46% |
+| Math | 39 | 45% |
+| String | 21 | 24% |
+| Simulation | 9 | 10% |
 | Bit Manipulation | 7 | 8% |
 | Hash Table | 7 | 8% |
+| Two Pointers | 7 | 8% |
 | Binary Search | 6 | 7% |
 | Bracket Sequences | 6 | 7% |
-| Stack | 6 | 7% |
-| Two Pointers | 6 | 7% |
+| Sorting | 6 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 38 |
+| [Array](Topics/array/) | 40 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -64,7 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
-| [Enumeration](Topics/enumeration/) | 1 |
+| [Enumeration](Topics/enumeration/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Geometry](Topics/geometry/) | 2 |
 | [Graph](Topics/graph/) | 0 |
@@ -74,7 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 37 |
+| [Math](Topics/math/) | 38 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 2 |
@@ -83,10 +83,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 5 |
 | [Simulation](Topics/simulation/) | 9 |
-| [Sorting](Topics/sorting/) | 5 |
-| [Stack](Topics/stack/) | 6 |
-| [String](Topics/string/) | 21 |
+| [Sorting](Topics/sorting/) | 6 |
+| [Stack](Topics/stack/) | 7 |
+| [String](Topics/string/) | 22 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 6 |
+| [Two Pointers](Topics/two-pointers/) | 7 |
 <!---LeetHub Summary End-->
