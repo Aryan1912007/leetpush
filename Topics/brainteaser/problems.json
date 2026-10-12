@@ -5,8 +5,28 @@
     "name": "Brainteaser",
     "tagId": "32"
   },
-  "updatedAt": "2026-10-10T19:59:00.478Z",
+  "updatedAt": "2026-10-12T06:19:21.348Z",
   "problems": [
+    {
+      "frontendId": "1025",
+      "title": "Divisor Game",
+      "slug": "divisor-game",
+      "problemName": "1025-divisor-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/divisor-game/",
+      "folderPath": "1025-divisor-game/",
+      "readmePath": "1025-divisor-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1025-divisor-game.cpp",
+          "path": "1025-divisor-game/1025-divisor-game.cpp",
+          "sha": "127852b9f8d287ad94bb96150cad1cbd46738df8",
+          "lastSyncedAt": "2026-10-12T06:19:21.348Z"
+        }
+      ]
+    },
     {
       "frontendId": "2396",
       "title": "Strictly Palindromic Number",
