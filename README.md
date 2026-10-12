@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 87 | 70 | 16 | 1 |
+| 88 | 71 | 16 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 16 days | 34 |
+| 2 days | 16 days | 35 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-25 | 3 |
 | 2026-09-26 | 2 |
 | 2026-09-27 | 3 |
 | 2026-09-28 | 2 |
@@ -30,18 +29,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-08 | 1 |
 | 2026-10-09 | 3 |
 | 2026-10-11 | 4 |
+| 2026-10-12 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 40 | 46% |
-| Math | 39 | 45% |
-| String | 21 | 24% |
+| Array | 40 | 45% |
+| Math | 39 | 44% |
+| String | 22 | 25% |
 | Simulation | 9 | 10% |
+| Two Pointers | 8 | 9% |
 | Bit Manipulation | 7 | 8% |
 | Hash Table | 7 | 8% |
-| Two Pointers | 7 | 8% |
 | Binary Search | 6 | 7% |
 | Bracket Sequences | 6 | 7% |
 | Sorting | 6 | 7% |
@@ -85,8 +85,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Simulation](Topics/simulation/) | 9 |
 | [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 7 |
-| [String](Topics/string/) | 22 |
+| [String](Topics/string/) | 23 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 7 |
+| [Two Pointers](Topics/two-pointers/) | 8 |
 <!---LeetHub Summary End-->
