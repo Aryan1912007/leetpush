@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "dynamic-programming",
-    "name": "Dynamic Programming"
+    "name": "Dynamic Programming",
+    "tagId": "13"
   },
-  "updatedAt": "2026-10-04T18:22:59.174Z",
+  "updatedAt": "2026-10-12T06:19:21.348Z",
   "problems": [
     {
       "frontendId": "392",
@@ -43,6 +44,26 @@
           "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.cpp",
           "sha": "3b5f7b41752b15166442010e2d71dcb7b6128d98",
           "lastSyncedAt": "2026-10-04T18:22:59.174Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1025",
+      "title": "Divisor Game",
+      "slug": "divisor-game",
+      "problemName": "1025-divisor-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/divisor-game/",
+      "folderPath": "1025-divisor-game/",
+      "readmePath": "1025-divisor-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1025-divisor-game.cpp",
+          "path": "1025-divisor-game/1025-divisor-game.cpp",
+          "sha": "127852b9f8d287ad94bb96150cad1cbd46738df8",
+          "lastSyncedAt": "2026-10-12T06:19:21.348Z"
         }
       ]
     }
