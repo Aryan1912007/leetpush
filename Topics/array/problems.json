@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T08:58:01.981Z",
+  "updatedAt": "2026-10-13T08:58:13.521Z",
   "problems": [
     {
       "frontendId": "14",
@@ -723,7 +723,7 @@
           "filename": "3727-maximum-alternating-sum-of-squares.cpp",
           "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.cpp",
           "sha": "ee81b1164fec27da5b94f90c534edc780b05ec44",
-          "lastSyncedAt": "2026-10-13T08:58:01.981Z"
+          "lastSyncedAt": "2026-10-13T08:58:13.521Z"
         }
       ]
     },
