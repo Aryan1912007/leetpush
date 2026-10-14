@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 91 | 72 | 18 | 1 |
+| 92 | 72 | 19 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 16 days | 36 |
+| 1 days | 16 days | 37 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-27 | 3 |
 | 2026-09-28 | 2 |
 | 2026-09-29 | 2 |
 | 2026-09-30 | 4 |
@@ -30,13 +29,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-11 | 4 |
 | 2026-10-12 | 2 |
 | 2026-10-13 | 2 |
+| 2026-10-15 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 42 | 46% |
-| Math | 40 | 44% |
+| Math | 41 | 45% |
 | String | 22 | 24% |
 | Simulation | 9 | 10% |
 | Two Pointers | 9 | 10% |
@@ -69,14 +69,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Geometry](Topics/geometry/) | 2 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 3 |
+| [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [impartial-game](Topics/impartial-game/) | 0 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 40 |
+| [Math](Topics/math/) | 41 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 2 |
