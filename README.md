@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 92 | 72 | 19 | 1 |
+| 93 | 73 | 19 | 1 |
 
 ## Activity
 
@@ -29,30 +29,31 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-11 | 4 |
 | 2026-10-12 | 2 |
 | 2026-10-13 | 2 |
-| 2026-10-15 | 1 |
+| 2026-10-15 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 42 | 46% |
-| Math | 41 | 45% |
+| Array | 43 | 46% |
+| Math | 41 | 44% |
 | String | 22 | 24% |
 | Simulation | 9 | 10% |
 | Two Pointers | 9 | 10% |
+| Hash Table | 8 | 9% |
 | Sorting | 8 | 9% |
 | Bit Manipulation | 7 | 8% |
-| Hash Table | 7 | 8% |
-| Binary Search | 6 | 7% |
-| Bracket Sequences | 6 | 7% |
+| Binary Search | 6 | 6% |
+| Bracket Sequences | 6 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 42 |
+| [Array](Topics/array/) | 43 |
 | [Backtracking](Topics/backtracking/) | 1 |
+| [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 7 |
@@ -70,7 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Geometry](Topics/geometry/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
-| [Hash Table](Topics/hash-table/) | 7 |
+| [Hash Table](Topics/hash-table/) | 8 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [impartial-game](Topics/impartial-game/) | 0 |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 5 |
+| [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 9 |
 | [Sorting](Topics/sorting/) | 8 |
 | [Stack](Topics/stack/) | 7 |
