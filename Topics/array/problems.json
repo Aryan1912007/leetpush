@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-16T19:12:30.848Z",
+  "updatedAt": "2026-10-16T20:02:41.691Z",
   "problems": [
     {
       "frontendId": "14",
@@ -404,6 +404,26 @@
           "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.cpp",
           "sha": "3e25a68f03c48272aa28bbe6e7d643978d6b8104",
           "lastSyncedAt": "2026-10-02T19:42:57.932Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2108",
+      "title": "Find First Palindromic String in the Array",
+      "slug": "find-first-palindromic-string-in-the-array",
+      "problemName": "2108-find-first-palindromic-string-in-the-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-first-palindromic-string-in-the-array/",
+      "folderPath": "2108-find-first-palindromic-string-in-the-array/",
+      "readmePath": "2108-find-first-palindromic-string-in-the-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2108-find-first-palindromic-string-in-the-array.cpp",
+          "path": "2108-find-first-palindromic-string-in-the-array/2108-find-first-palindromic-string-in-the-array.cpp",
+          "sha": "af15607e80cc4061204a98f390977b1fca20cf0c",
+          "lastSyncedAt": "2026-10-16T20:02:41.691Z"
         }
       ]
     },
