@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-16T20:07:21.620Z",
+  "updatedAt": "2026-10-16T20:07:41.866Z",
   "problems": [
     {
       "frontendId": "14",
@@ -323,7 +323,7 @@
           "filename": "2108-find-first-palindromic-string-in-the-array.cpp",
           "path": "2108-find-first-palindromic-string-in-the-array/2108-find-first-palindromic-string-in-the-array.cpp",
           "sha": "af15607e80cc4061204a98f390977b1fca20cf0c",
-          "lastSyncedAt": "2026-10-16T20:07:21.620Z"
+          "lastSyncedAt": "2026-10-16T20:07:41.866Z"
         }
       ]
     },
