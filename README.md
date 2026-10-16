@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 93 | 73 | 19 | 1 |
+| 94 | 73 | 20 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 16 days | 37 |
+| 1 days | 16 days | 38 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-28 | 2 |
 | 2026-09-29 | 2 |
 | 2026-09-30 | 4 |
 | 2026-10-01 | 1 |
@@ -30,19 +29,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-12 | 2 |
 | 2026-10-13 | 2 |
 | 2026-10-15 | 2 |
+| 2026-10-17 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 43 | 46% |
+| Array | 44 | 47% |
 | Math | 41 | 44% |
-| String | 22 | 24% |
+| String | 22 | 23% |
+| Hash Table | 9 | 10% |
 | Simulation | 9 | 10% |
 | Two Pointers | 9 | 10% |
-| Hash Table | 8 | 9% |
 | Sorting | 8 | 9% |
-| Bit Manipulation | 7 | 8% |
+| Bit Manipulation | 7 | 7% |
 | Binary Search | 6 | 6% |
 | Bracket Sequences | 6 | 6% |
 
@@ -51,7 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 43 |
+| [Array](Topics/array/) | 44 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
@@ -71,7 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Geometry](Topics/geometry/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
-| [Hash Table](Topics/hash-table/) | 8 |
+| [Hash Table](Topics/hash-table/) | 9 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [impartial-game](Topics/impartial-game/) | 0 |
@@ -82,7 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 3 |
+| [Prefix Sum](Topics/prefix-sum/) | 4 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 5 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
