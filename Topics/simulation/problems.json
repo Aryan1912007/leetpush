@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-14T07:21:33.200Z",
+  "updatedAt": "2026-10-17T18:24:36.596Z",
   "problems": [
+    {
+      "frontendId": "43",
+      "title": "Multiply Strings",
+      "slug": "multiply-strings",
+      "problemName": "0043-multiply-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/multiply-strings/",
+      "folderPath": "0043-multiply-strings/",
+      "readmePath": "0043-multiply-strings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0043-multiply-strings.cpp",
+          "path": "0043-multiply-strings/0043-multiply-strings.cpp",
+          "sha": "87526f182895ebe80218d67223dfb5934b1922a3",
+          "lastSyncedAt": "2026-10-17T18:24:36.596Z"
+        }
+      ]
+    },
     {
       "frontendId": "258",
       "title": "Add Digits",
