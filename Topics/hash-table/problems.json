@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-17T20:04:16.048Z",
+  "updatedAt": "2026-10-17T20:08:22.592Z",
   "problems": [
     {
       "frontendId": "202",
@@ -103,7 +103,7 @@
           "filename": "1832-check-if-the-sentence-is-pangram.cpp",
           "path": "1832-check-if-the-sentence-is-pangram/1832-check-if-the-sentence-is-pangram.cpp",
           "sha": "dfa24d028c81073cff359e35deeb1d1bb8cca37b",
-          "lastSyncedAt": "2026-10-17T20:04:16.048Z"
+          "lastSyncedAt": "2026-10-17T20:08:22.592Z"
         }
       ]
     },
