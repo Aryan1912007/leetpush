@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 95 | 74 | 20 | 1 |
+| 97 | 75 | 21 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 16 days | 38 |
+| 2 days | 16 days | 39 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-29 | 2 |
 | 2026-09-30 | 4 |
 | 2026-10-01 | 1 |
 | 2026-10-03 | 2 |
@@ -29,18 +28,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-12 | 2 |
 | 2026-10-13 | 2 |
 | 2026-10-15 | 2 |
-| 2026-10-17 | 2 |
+| 2026-10-17 | 3 |
+| 2026-10-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 45 | 47% |
-| Math | 41 | 43% |
-| String | 23 | 24% |
-| Two Pointers | 10 | 11% |
-| Hash Table | 9 | 9% |
-| Simulation | 9 | 9% |
+| Array | 45 | 46% |
+| Math | 42 | 43% |
+| String | 25 | 26% |
+| Hash Table | 10 | 10% |
+| Simulation | 10 | 10% |
+| Two Pointers | 10 | 10% |
 | Sorting | 8 | 8% |
 | Bit Manipulation | 7 | 7% |
 | Binary Search | 6 | 6% |
@@ -71,13 +71,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Geometry](Topics/geometry/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
-| [Hash Table](Topics/hash-table/) | 9 |
+| [Hash Table](Topics/hash-table/) | 10 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [impartial-game](Topics/impartial-game/) | 0 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 41 |
+| [Math](Topics/math/) | 42 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 2 |
@@ -86,10 +86,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 5 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
-| [Simulation](Topics/simulation/) | 9 |
+| [Simulation](Topics/simulation/) | 10 |
 | [Sorting](Topics/sorting/) | 8 |
 | [Stack](Topics/stack/) | 7 |
-| [String](Topics/string/) | 24 |
+| [String](Topics/string/) | 26 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 10 |
