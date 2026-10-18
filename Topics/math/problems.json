@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-17T18:24:39.330Z",
+  "updatedAt": "2026-10-18T06:28:44.709Z",
   "problems": [
     {
       "frontendId": "43",
@@ -624,6 +624,26 @@
           "path": "2894-divisible-and-non-divisible-sums-difference/2894-divisible-and-non-divisible-sums-difference.cpp",
           "sha": "3a28233b25771b7334bf4a7122044773baea46bc",
           "lastSyncedAt": "2026-10-02T19:47:06.502Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3024",
+      "title": "Type of Triangle",
+      "slug": "type-of-triangle",
+      "problemName": "3024-type-of-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/type-of-triangle/",
+      "folderPath": "3024-type-of-triangle/",
+      "readmePath": "3024-type-of-triangle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3024-type-of-triangle.cpp",
+          "path": "3024-type-of-triangle/3024-type-of-triangle.cpp",
+          "sha": "b3c13e6d21ba6ee5793b1f8e158792d80768b1df",
+          "lastSyncedAt": "2026-10-18T06:28:44.709Z"
         }
       ]
     },
