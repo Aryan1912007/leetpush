@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-16T20:07:41.866Z",
+  "updatedAt": "2026-10-18T06:28:44.709Z",
   "problems": [
     {
       "frontendId": "14",
@@ -624,6 +624,26 @@
           "path": "2980-check-if-bitwise-or-has-trailing-zeros/2980-check-if-bitwise-or-has-trailing-zeros.cpp",
           "sha": "7c46c435a63ec1f17a3bff43ed5e5ba6fd1189f9",
           "lastSyncedAt": "2026-10-02T19:41:08.358Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3024",
+      "title": "Type of Triangle",
+      "slug": "type-of-triangle",
+      "problemName": "3024-type-of-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/type-of-triangle/",
+      "folderPath": "3024-type-of-triangle/",
+      "readmePath": "3024-type-of-triangle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3024-type-of-triangle.cpp",
+          "path": "3024-type-of-triangle/3024-type-of-triangle.cpp",
+          "sha": "b3c13e6d21ba6ee5793b1f8e158792d80768b1df",
+          "lastSyncedAt": "2026-10-18T06:28:44.709Z"
         }
       ]
     },
