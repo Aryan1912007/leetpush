@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T08:58:20.302Z",
+  "updatedAt": "2026-10-18T06:28:44.709Z",
   "problems": [
     {
       "frontendId": "15",
@@ -124,6 +124,26 @@
           "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.cpp",
           "sha": "3e25a68f03c48272aa28bbe6e7d643978d6b8104",
           "lastSyncedAt": "2026-10-02T19:42:57.932Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3024",
+      "title": "Type of Triangle",
+      "slug": "type-of-triangle",
+      "problemName": "3024-type-of-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/type-of-triangle/",
+      "folderPath": "3024-type-of-triangle/",
+      "readmePath": "3024-type-of-triangle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3024-type-of-triangle.cpp",
+          "path": "3024-type-of-triangle/3024-type-of-triangle.cpp",
+          "sha": "b3c13e6d21ba6ee5793b1f8e158792d80768b1df",
+          "lastSyncedAt": "2026-10-18T06:28:44.709Z"
         }
       ]
     },
