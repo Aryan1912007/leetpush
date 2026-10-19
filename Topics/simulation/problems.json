@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-17T18:24:39.330Z",
+  "updatedAt": "2026-10-19T17:37:03.626Z",
   "problems": [
     {
       "frontendId": "43",
@@ -184,6 +184,26 @@
           "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.cpp",
           "sha": "c9e18d9b82a7f396bd8eac169f846981b30d991e",
           "lastSyncedAt": "2026-10-02T19:44:54.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3925",
+      "title": "Concatenate Array With Reverse",
+      "slug": "concatenate-array-with-reverse",
+      "problemName": "3925-concatenate-array-with-reverse",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenate-array-with-reverse/",
+      "folderPath": "3925-concatenate-array-with-reverse/",
+      "readmePath": "3925-concatenate-array-with-reverse/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3925-concatenate-array-with-reverse.cpp",
+          "path": "3925-concatenate-array-with-reverse/3925-concatenate-array-with-reverse.cpp",
+          "sha": "1bdac2217e9b8b6d0fa450a35306d4c9742aa750",
+          "lastSyncedAt": "2026-10-19T17:37:03.626Z"
         }
       ]
     },
