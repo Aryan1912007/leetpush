@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-18T06:28:44.709Z",
+  "updatedAt": "2026-10-20T11:06:20.361Z",
   "problems": [
     {
       "frontendId": "15",
@@ -104,6 +104,26 @@
           "path": "0905-sort-array-by-parity/0905-sort-array-by-parity.cpp",
           "sha": "3086a5bd8fcdcfee7b953dd12666a99e32e18818",
           "lastSyncedAt": "2026-10-09T06:11:07.045Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "977",
+      "title": "Squares of a Sorted Array",
+      "slug": "squares-of-a-sorted-array",
+      "problemName": "0977-squares-of-a-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+      "folderPath": "0977-squares-of-a-sorted-array/",
+      "readmePath": "0977-squares-of-a-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0977-squares-of-a-sorted-array.cpp",
+          "path": "0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.cpp",
+          "sha": "c22046b583423a24e27484af9448efc5b853583a",
+          "lastSyncedAt": "2026-10-20T11:06:20.361Z"
         }
       ]
     },
