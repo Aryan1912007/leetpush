@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T11:00:55.123Z",
+  "updatedAt": "2026-10-20T11:00:53.689Z",
   "problems": [
     {
       "frontendId": "14",
@@ -463,7 +463,7 @@
           "filename": "2161-partition-array-according-to-given-pivot.cpp",
           "path": "2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.cpp",
           "sha": "d67c6110179b35ef83d18dddcb83f10fed93cba2",
-          "lastSyncedAt": "2026-10-20T11:00:55.123Z"
+          "lastSyncedAt": "2026-10-20T11:00:53.689Z"
         }
       ]
     },
