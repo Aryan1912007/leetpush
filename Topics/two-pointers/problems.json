@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-20T11:06:20.361Z",
+  "updatedAt": "2026-10-20T11:14:19.171Z",
   "problems": [
     {
       "frontendId": "15",
@@ -163,7 +163,7 @@
           "filename": "0977-squares-of-a-sorted-array.cpp",
           "path": "0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.cpp",
           "sha": "c22046b583423a24e27484af9448efc5b853583a",
-          "lastSyncedAt": "2026-10-20T11:06:20.361Z"
+          "lastSyncedAt": "2026-10-20T11:14:19.171Z"
         }
       ]
     },
