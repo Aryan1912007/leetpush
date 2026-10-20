@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-19T17:37:08.775Z",
+  "updatedAt": "2026-10-20T11:00:55.123Z",
   "problems": [
     {
       "frontendId": "14",
@@ -444,6 +444,26 @@
           "path": "2114-maximum-number-of-words-found-in-sentences/2114-maximum-number-of-words-found-in-sentences.cpp",
           "sha": "a85b241ad4549f32a24dde46e23aff1565e27db2",
           "lastSyncedAt": "2026-10-02T19:43:34.472Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2161",
+      "title": "Partition Array According to Given Pivot",
+      "slug": "partition-array-according-to-given-pivot",
+      "problemName": "2161-partition-array-according-to-given-pivot",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-array-according-to-given-pivot/",
+      "folderPath": "2161-partition-array-according-to-given-pivot/",
+      "readmePath": "2161-partition-array-according-to-given-pivot/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2161-partition-array-according-to-given-pivot.cpp",
+          "path": "2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.cpp",
+          "sha": "d67c6110179b35ef83d18dddcb83f10fed93cba2",
+          "lastSyncedAt": "2026-10-20T11:00:55.123Z"
         }
       ]
     },
