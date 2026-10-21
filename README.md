@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 100 | 77 | 22 | 1 |
+| 101 | 78 | 22 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 16 days | 41 |
+| 1 days | 16 days | 42 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-03 | 2 |
 | 2026-10-04 | 1 |
 | 2026-10-05 | 1 |
 | 2026-10-06 | 4 |
@@ -30,28 +29,29 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-18 | 1 |
 | 2026-10-19 | 1 |
 | 2026-10-20 | 2 |
+| 2026-10-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 48 | 48% |
+| Array | 49 | 49% |
 | Math | 42 | 42% |
 | String | 25 | 25% |
 | Simulation | 12 | 12% |
 | Two Pointers | 12 | 12% |
-| Hash Table | 10 | 10% |
+| Hash Table | 11 | 11% |
 | Sorting | 9 | 9% |
 | Bit Manipulation | 7 | 7% |
+| Stack | 7 | 7% |
 | Binary Search | 6 | 6% |
-| Bracket Sequences | 6 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 49 |
+| [Array](Topics/array/) | 50 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
@@ -71,7 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Geometry](Topics/geometry/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
-| [Hash Table](Topics/hash-table/) | 10 |
+| [Hash Table](Topics/hash-table/) | 11 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [impartial-game](Topics/impartial-game/) | 0 |
@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Linked List](Topics/linked-list/) | 0 |
 | [Math](Topics/math/) | 43 |
 | [Matrix](Topics/matrix/) | 0 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
@@ -89,7 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 12 |
 | [Sorting](Topics/sorting/) | 10 |
-| [Stack](Topics/stack/) | 7 |
+| [Stack](Topics/stack/) | 8 |
 | [String](Topics/string/) | 26 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
