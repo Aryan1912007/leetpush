@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 101 | 78 | 22 | 1 |
+| 102 | 78 | 23 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 16 days | 42 |
+| 2 days | 16 days | 43 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-04 | 1 |
 | 2026-10-05 | 1 |
 | 2026-10-06 | 4 |
 | 2026-10-08 | 1 |
@@ -30,20 +29,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-19 | 1 |
 | 2026-10-20 | 2 |
 | 2026-10-22 | 1 |
+| 2026-10-23 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 49 | 49% |
-| Math | 42 | 42% |
+| Array | 49 | 48% |
+| Math | 42 | 41% |
 | String | 25 | 25% |
 | Simulation | 12 | 12% |
 | Two Pointers | 12 | 12% |
 | Hash Table | 11 | 11% |
 | Sorting | 9 | 9% |
+| Stack | 8 | 8% |
 | Bit Manipulation | 7 | 7% |
-| Stack | 7 | 7% |
 | Binary Search | 6 | 6% |
 
 ## Topics
@@ -61,8 +61,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Brainteaser](Topics/brainteaser/) | 4 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting](Topics/counting/) | 2 |
+| [Data Stream](Topics/data-stream/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
+| [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 2 |
@@ -79,7 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Linked List](Topics/linked-list/) | 0 |
 | [Math](Topics/math/) | 43 |
 | [Matrix](Topics/matrix/) | 0 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 2 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 3 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
@@ -90,7 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 12 |
 | [Sorting](Topics/sorting/) | 10 |
-| [Stack](Topics/stack/) | 9 |
+| [Stack](Topics/stack/) | 10 |
 | [String](Topics/string/) | 26 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
