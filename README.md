@@ -51,7 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 50 |
+| [Array](Topics/array/) | 51 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
@@ -79,7 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Linked List](Topics/linked-list/) | 0 |
 | [Math](Topics/math/) | 43 |
 | [Matrix](Topics/matrix/) | 0 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 1 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
@@ -90,7 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 12 |
 | [Sorting](Topics/sorting/) | 10 |
-| [Stack](Topics/stack/) | 8 |
+| [Stack](Topics/stack/) | 9 |
 | [String](Topics/string/) | 26 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
