@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-21T19:51:52.865Z",
+  "updatedAt": "2026-10-22T20:49:30.817Z",
   "problems": [
     {
       "frontendId": "202",
@@ -64,6 +64,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
           "sha": "82b519b9eecb7c86712dae2dd81ca85ce7ddc55c",
           "lastSyncedAt": "2026-10-08T18:41:55.250Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "389",
+      "title": "Find the Difference",
+      "slug": "find-the-difference",
+      "problemName": "0389-find-the-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-difference/",
+      "folderPath": "0389-find-the-difference/",
+      "readmePath": "0389-find-the-difference/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0389-find-the-difference.cpp",
+          "path": "0389-find-the-difference/0389-find-the-difference.cpp",
+          "sha": "dbb5bf471a2fb7c198f4a54af324aac5bb686c97",
+          "lastSyncedAt": "2026-10-22T20:49:30.817Z"
         }
       ]
     },
