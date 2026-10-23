@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 102 | 78 | 23 | 1 |
+| 104 | 79 | 24 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 16 days | 43 |
+| 3 days | 16 days | 44 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-05 | 1 |
 | 2026-10-06 | 4 |
 | 2026-10-08 | 1 |
 | 2026-10-09 | 3 |
@@ -29,21 +28,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-19 | 1 |
 | 2026-10-20 | 2 |
 | 2026-10-22 | 1 |
-| 2026-10-23 | 1 |
+| 2026-10-23 | 2 |
+| 2026-10-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 49 | 48% |
-| Math | 42 | 41% |
-| String | 25 | 25% |
+| Array | 49 | 47% |
+| Math | 42 | 40% |
+| String | 26 | 25% |
+| Hash Table | 12 | 12% |
 | Simulation | 12 | 12% |
 | Two Pointers | 12 | 12% |
-| Hash Table | 11 | 11% |
-| Sorting | 9 | 9% |
-| Stack | 8 | 8% |
-| Bit Manipulation | 7 | 7% |
+| Sorting | 10 | 10% |
+| Stack | 9 | 9% |
+| Bit Manipulation | 8 | 8% |
 | Binary Search | 6 | 6% |
 
 ## Topics
@@ -56,7 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 7 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 8 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 6 |
 | [Brainteaser](Topics/brainteaser/) | 4 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
@@ -64,7 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Data Stream](Topics/data-stream/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
-| [Design](Topics/design/) | 1 |
+| [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 2 |
@@ -73,7 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Geometry](Topics/geometry/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
-| [Hash Table](Topics/hash-table/) | 11 |
+| [Hash Table](Topics/hash-table/) | 12 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [impartial-game](Topics/impartial-game/) | 0 |
@@ -91,9 +91,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Recursion](Topics/recursion/) | 5 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 12 |
-| [Sorting](Topics/sorting/) | 10 |
-| [Stack](Topics/stack/) | 10 |
-| [String](Topics/string/) | 26 |
+| [Sorting](Topics/sorting/) | 11 |
+| [Stack](Topics/stack/) | 11 |
+| [String](Topics/string/) | 27 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 12 |
