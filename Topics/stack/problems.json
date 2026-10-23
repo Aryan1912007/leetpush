@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-22T20:36:02.642Z",
+  "updatedAt": "2026-10-23T18:46:36.877Z",
   "problems": [
     {
       "frontendId": "20",
@@ -24,6 +24,26 @@
           "path": "0020-valid-parentheses/0020-valid-parentheses.cpp",
           "sha": "be89ef350899f5cb799b5726d3560fc13dd1617b",
           "lastSyncedAt": "2026-10-02T19:41:36.463Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "155",
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "problemName": "0155-min-stack",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack/",
+      "folderPath": "0155-min-stack/",
+      "readmePath": "0155-min-stack/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0155-min-stack.cpp",
+          "path": "0155-min-stack/0155-min-stack.cpp",
+          "sha": "4d5f1b164b93c86db45d7c776969668e6ea40612",
+          "lastSyncedAt": "2026-10-23T18:46:36.877Z"
         }
       ]
     },
