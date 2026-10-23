@@ -5,8 +5,28 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-10-22T20:36:02.642Z",
+  "updatedAt": "2026-10-23T18:46:36.877Z",
   "problems": [
+    {
+      "frontendId": "155",
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "problemName": "0155-min-stack",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack/",
+      "folderPath": "0155-min-stack/",
+      "readmePath": "0155-min-stack/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0155-min-stack.cpp",
+          "path": "0155-min-stack/0155-min-stack.cpp",
+          "sha": "4d5f1b164b93c86db45d7c776969668e6ea40612",
+          "lastSyncedAt": "2026-10-23T18:46:36.877Z"
+        }
+      ]
+    },
     {
       "frontendId": "901",
       "title": "Online Stock Span",
