@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 104 | 79 | 24 | 1 |
+| 105 | 80 | 24 | 1 |
 
 ## Activity
 
@@ -29,7 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-20 | 2 |
 | 2026-10-22 | 1 |
 | 2026-10-23 | 2 |
-| 2026-10-24 | 1 |
+| 2026-10-24 | 2 |
 
 ## Top Tags
 
@@ -38,12 +38,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Array | 49 | 47% |
 | Math | 42 | 40% |
 | String | 26 | 25% |
-| Hash Table | 12 | 12% |
-| Simulation | 12 | 12% |
-| Two Pointers | 12 | 12% |
+| Hash Table | 12 | 11% |
+| Simulation | 12 | 11% |
+| Two Pointers | 12 | 11% |
 | Sorting | 10 | 10% |
+| Bit Manipulation | 9 | 9% |
 | Stack | 9 | 9% |
-| Bit Manipulation | 8 | 8% |
 | Binary Search | 6 | 6% |
 
 ## Topics
@@ -56,7 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 8 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 9 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 6 |
 | [Brainteaser](Topics/brainteaser/) | 4 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
@@ -65,7 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Design](Topics/design/) | 2 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
