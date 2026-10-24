@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 105 | 80 | 24 | 1 |
+| 106 | 81 | 24 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 16 days | 44 |
+| 4 days | 16 days | 45 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-06 | 4 |
 | 2026-10-08 | 1 |
 | 2026-10-09 | 3 |
 | 2026-10-11 | 4 |
@@ -30,20 +29,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-22 | 1 |
 | 2026-10-23 | 2 |
 | 2026-10-24 | 2 |
+| 2026-10-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 49 | 47% |
-| Math | 42 | 40% |
-| String | 26 | 25% |
+| Array | 49 | 46% |
+| Math | 43 | 41% |
+| String | 27 | 25% |
 | Hash Table | 12 | 11% |
 | Simulation | 12 | 11% |
 | Two Pointers | 12 | 11% |
-| Sorting | 10 | 10% |
-| Bit Manipulation | 9 | 9% |
-| Stack | 9 | 9% |
+| Sorting | 10 | 9% |
+| Bit Manipulation | 9 | 8% |
+| Stack | 9 | 8% |
 | Binary Search | 6 | 6% |
 
 ## Topics
@@ -79,7 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [impartial-game](Topics/impartial-game/) | 0 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 43 |
+| [Math](Topics/math/) | 44 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 3 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
@@ -93,7 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Simulation](Topics/simulation/) | 12 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 11 |
-| [String](Topics/string/) | 27 |
+| [String](Topics/string/) | 28 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 12 |
