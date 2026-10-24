@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T20:49:30.817Z",
+  "updatedAt": "2026-10-24T20:50:26.742Z",
   "problems": [
     {
       "frontendId": "14",
@@ -404,6 +404,26 @@
           "path": "2114-maximum-number-of-words-found-in-sentences/2114-maximum-number-of-words-found-in-sentences.cpp",
           "sha": "a85b241ad4549f32a24dde46e23aff1565e27db2",
           "lastSyncedAt": "2026-10-02T19:43:34.472Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2409",
+      "title": "Count Days Spent Together",
+      "slug": "count-days-spent-together",
+      "problemName": "2409-count-days-spent-together",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-days-spent-together/",
+      "folderPath": "2409-count-days-spent-together/",
+      "readmePath": "2409-count-days-spent-together/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2409-count-days-spent-together.cpp",
+          "path": "2409-count-days-spent-together/2409-count-days-spent-together.cpp",
+          "sha": "0be49216e21a92f7defca10dad3d1a92a61996b8",
+          "lastSyncedAt": "2026-10-24T20:50:26.742Z"
         }
       ]
     },
