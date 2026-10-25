@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 106 | 81 | 24 | 1 |
+| 107 | 81 | 24 | 2 |
 
 ## Activity
 
@@ -29,21 +29,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-22 | 1 |
 | 2026-10-23 | 2 |
 | 2026-10-24 | 2 |
-| 2026-10-25 | 1 |
+| 2026-10-25 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 49 | 46% |
-| Math | 43 | 41% |
+| Array | 50 | 47% |
+| Math | 43 | 40% |
 | String | 27 | 25% |
 | Hash Table | 12 | 11% |
 | Simulation | 12 | 11% |
 | Two Pointers | 12 | 11% |
 | Sorting | 10 | 9% |
+| Stack | 10 | 9% |
 | Bit Manipulation | 9 | 8% |
-| Stack | 9 | 8% |
 | Binary Search | 6 | 6% |
 
 ## Topics
@@ -51,7 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 51 |
+| [Array](Topics/array/) | 52 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
@@ -81,18 +81,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Linked List](Topics/linked-list/) | 0 |
 | [Math](Topics/math/) | 44 |
 | [Matrix](Topics/matrix/) | 0 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 3 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 4 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [polygons](Topics/polygons/) | 0 |
 | [Prefix Sum](Topics/prefix-sum/) | 4 |
 | [Quickselect](Topics/quickselect/) | 1 |
+| [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 5 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 12 |
 | [Sorting](Topics/sorting/) | 11 |
-| [Stack](Topics/stack/) | 11 |
+| [Stack](Topics/stack/) | 12 |
 | [String](Topics/string/) | 28 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
