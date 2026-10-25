@@ -5,8 +5,28 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-10-22T20:36:02.642Z",
+  "updatedAt": "2026-10-25T10:58:35.140Z",
   "problems": [
+    {
+      "frontendId": "84",
+      "title": "Largest Rectangle in Histogram",
+      "slug": "largest-rectangle-in-histogram",
+      "problemName": "0084-largest-rectangle-in-histogram",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+      "folderPath": "0084-largest-rectangle-in-histogram/",
+      "readmePath": "0084-largest-rectangle-in-histogram/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0084-largest-rectangle-in-histogram.cpp",
+          "path": "0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.cpp",
+          "sha": "f75dbfc88f220345ee141dcc5896e25af48c3277",
+          "lastSyncedAt": "2026-10-25T10:58:35.140Z"
+        }
+      ]
+    },
     {
       "frontendId": "496",
       "title": "Next Greater Element I",
