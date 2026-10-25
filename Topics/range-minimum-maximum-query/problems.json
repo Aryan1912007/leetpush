@@ -5,7 +5,7 @@
     "name": "Range Minimum/Maximum Query",
     "tagId": "122086"
   },
-  "updatedAt": "2026-10-25T11:00:13.100Z",
+  "updatedAt": "2026-10-25T11:00:20.006Z",
   "problems": [
     {
       "frontendId": "84",
@@ -23,7 +23,7 @@
           "filename": "0084-largest-rectangle-in-histogram.cpp",
           "path": "0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.cpp",
           "sha": "f75dbfc88f220345ee141dcc5896e25af48c3277",
-          "lastSyncedAt": "2026-10-25T11:00:13.100Z"
+          "lastSyncedAt": "2026-10-25T11:00:20.006Z"
         }
       ]
     }
