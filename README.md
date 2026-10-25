@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 107 | 81 | 24 | 2 |
+| 108 | 82 | 24 | 2 |
 
 ## Activity
 
@@ -29,13 +29,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-22 | 1 |
 | 2026-10-23 | 2 |
 | 2026-10-24 | 2 |
-| 2026-10-25 | 2 |
+| 2026-10-25 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 50 | 47% |
+| Array | 50 | 46% |
 | Math | 43 | 40% |
 | String | 27 | 25% |
 | Hash Table | 12 | 11% |
@@ -78,7 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [impartial-game](Topics/impartial-game/) | 0 |
 | [Interactive](Topics/interactive/) | 2 |
-| [Linked List](Topics/linked-list/) | 0 |
+| [Linked List](Topics/linked-list/) | 1 |
 | [Math](Topics/math/) | 44 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 4 |
@@ -89,7 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Prefix Sum](Topics/prefix-sum/) | 4 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
-| [Recursion](Topics/recursion/) | 5 |
+| [Recursion](Topics/recursion/) | 6 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 12 |
 | [Sorting](Topics/sorting/) | 11 |
