@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 108 | 82 | 24 | 2 |
+| 110 | 84 | 24 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 16 days | 45 |
+| 1 days | 16 days | 46 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-08 | 1 |
 | 2026-10-09 | 3 |
 | 2026-10-11 | 4 |
 | 2026-10-12 | 2 |
@@ -30,21 +29,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-23 | 2 |
 | 2026-10-24 | 2 |
 | 2026-10-25 | 3 |
+| 2026-10-27 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 50 | 46% |
-| Math | 43 | 40% |
+| Array | 50 | 45% |
+| Math | 43 | 39% |
 | String | 27 | 25% |
-| Hash Table | 12 | 11% |
+| Hash Table | 13 | 12% |
+| Two Pointers | 13 | 12% |
 | Simulation | 12 | 11% |
-| Two Pointers | 12 | 11% |
 | Sorting | 10 | 9% |
 | Stack | 10 | 9% |
 | Bit Manipulation | 9 | 8% |
-| Binary Search | 6 | 6% |
+| Binary Search | 6 | 5% |
 
 ## Topics
 
@@ -68,17 +68,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 2 |
-| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
+| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Geometry](Topics/geometry/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
-| [Hash Table](Topics/hash-table/) | 12 |
+| [Hash Table](Topics/hash-table/) | 13 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [impartial-game](Topics/impartial-game/) | 0 |
 | [Interactive](Topics/interactive/) | 2 |
-| [Linked List](Topics/linked-list/) | 1 |
+| [Linked List](Topics/linked-list/) | 2 |
 | [Math](Topics/math/) | 44 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 4 |
@@ -97,5 +97,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [String](Topics/string/) | 28 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 12 |
+| [Two Pointers](Topics/two-pointers/) | 13 |
 <!---LeetHub Summary End-->
