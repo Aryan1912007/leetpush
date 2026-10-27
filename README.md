@@ -79,7 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [impartial-game](Topics/impartial-game/) | 0 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Linked List](Topics/linked-list/) | 2 |
-| [Math](Topics/math/) | 44 |
+| [math](Topics/math/) | 0 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 4 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
