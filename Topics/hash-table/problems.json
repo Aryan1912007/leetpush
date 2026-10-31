@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-31T19:21:56.439Z",
+  "updatedAt": "2026-10-31T19:22:00.121Z",
   "problems": [
     {
       "frontendId": "138",
@@ -23,7 +23,7 @@
           "filename": "0138-copy-list-with-random-pointer.cpp",
           "path": "0138-copy-list-with-random-pointer/0138-copy-list-with-random-pointer.cpp",
           "sha": "804c1b53b235fadca366687338796a1c85e7563c",
-          "lastSyncedAt": "2026-10-31T19:21:56.439Z"
+          "lastSyncedAt": "2026-10-31T19:22:00.121Z"
         }
       ]
     },
