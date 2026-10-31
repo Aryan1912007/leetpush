@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-31T19:22:07.989Z",
+  "updatedAt": "2026-10-31T19:22:17.723Z",
   "problems": [
     {
       "frontendId": "21",
@@ -43,7 +43,7 @@
           "filename": "0138-copy-list-with-random-pointer.cpp",
           "path": "0138-copy-list-with-random-pointer/0138-copy-list-with-random-pointer.cpp",
           "sha": "804c1b53b235fadca366687338796a1c85e7563c",
-          "lastSyncedAt": "2026-10-31T19:22:07.989Z"
+          "lastSyncedAt": "2026-10-31T19:22:17.723Z"
         }
       ]
     },
