@@ -5,8 +5,28 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-23T19:42:56.835Z",
+  "updatedAt": "2026-11-02T19:10:33.224Z",
   "problems": [
+    {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "problemName": "0004-median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "folderPath": "0004-median-of-two-sorted-arrays/",
+      "readmePath": "0004-median-of-two-sorted-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0004-median-of-two-sorted-arrays.py",
+          "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.py",
+          "sha": "a1d9dc7d67af9dfc673bc7f40ddfc792f3df2a17",
+          "lastSyncedAt": "2026-11-02T19:10:33.224Z"
+        }
+      ]
+    },
     {
       "frontendId": "191",
       "title": "Number of 1 Bits",
