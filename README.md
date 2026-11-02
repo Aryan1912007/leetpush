@@ -6,19 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 110 | 84 | 24 | 2 |
+| 115 | 86 | 27 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 16 days | 46 |
+| 2 days | 16 days | 49 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-09 | 3 |
-| 2026-10-11 | 4 |
-| 2026-10-12 | 2 |
 | 2026-10-13 | 2 |
 | 2026-10-15 | 2 |
 | 2026-10-17 | 3 |
@@ -30,28 +27,31 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-24 | 2 |
 | 2026-10-25 | 3 |
 | 2026-10-27 | 2 |
+| 2026-10-30 | 2 |
+| 2026-11-01 | 2 |
+| 2026-11-02 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 50 | 45% |
-| Math | 43 | 39% |
-| String | 27 | 25% |
-| Hash Table | 13 | 12% |
-| Two Pointers | 13 | 12% |
-| Simulation | 12 | 11% |
+| Array | 51 | 44% |
+| Math | 44 | 38% |
+| String | 27 | 23% |
+| Hash Table | 14 | 12% |
+| Two Pointers | 13 | 11% |
+| Simulation | 12 | 10% |
 | Sorting | 10 | 9% |
 | Stack | 10 | 9% |
 | Bit Manipulation | 9 | 8% |
-| Binary Search | 6 | 5% |
+| Recursion | 8 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 52 |
+| [Array](Topics/array/) | 54 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
@@ -63,9 +63,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Counting](Topics/counting/) | 2 |
 | [Data Stream](Topics/data-stream/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 1 |
+| [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
+| [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
@@ -73,13 +74,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Geometry](Topics/geometry/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
-| [Hash Table](Topics/hash-table/) | 13 |
+| [Hash Table](Topics/hash-table/) | 14 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [impartial-game](Topics/impartial-game/) | 0 |
 | [Interactive](Topics/interactive/) | 2 |
-| [Linked List](Topics/linked-list/) | 2 |
-| [math](Topics/math/) | 0 |
+| [Linked List](Topics/linked-list/) | 6 |
+| [Math](Topics/math/) | 45 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 4 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
@@ -89,7 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Prefix Sum](Topics/prefix-sum/) | 4 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
-| [Recursion](Topics/recursion/) | 6 |
+| [Recursion](Topics/recursion/) | 8 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 12 |
 | [Sorting](Topics/sorting/) | 11 |
