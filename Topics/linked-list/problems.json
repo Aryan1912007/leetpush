@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-02T06:08:33.156Z",
+  "updatedAt": "2026-11-02T06:08:35.596Z",
   "problems": [
     {
       "frontendId": "2",
@@ -123,7 +123,7 @@
           "filename": "0430-flatten-a-multilevel-doubly-linked-list.cpp",
           "path": "0430-flatten-a-multilevel-doubly-linked-list/0430-flatten-a-multilevel-doubly-linked-list.cpp",
           "sha": "adbc63a6da3c54226fe3fb7e050202ac294cf75a",
-          "lastSyncedAt": "2026-11-02T06:08:33.156Z"
+          "lastSyncedAt": "2026-11-02T06:08:35.596Z"
         }
       ]
     }
