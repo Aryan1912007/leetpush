@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-31T20:39:55.236Z",
+  "updatedAt": "2026-11-02T06:08:33.156Z",
   "problems": [
     {
       "frontendId": "2",
@@ -104,6 +104,26 @@
           "path": "0206-reverse-linked-list/0206-reverse-linked-list.cpp",
           "sha": "dacd3abbaa896e746be2e8120d8c4d738a5b0b37",
           "lastSyncedAt": "2026-10-25T14:23:18.610Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "430",
+      "title": "Flatten a Multilevel Doubly Linked List",
+      "slug": "flatten-a-multilevel-doubly-linked-list",
+      "problemName": "0430-flatten-a-multilevel-doubly-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
+      "folderPath": "0430-flatten-a-multilevel-doubly-linked-list/",
+      "readmePath": "0430-flatten-a-multilevel-doubly-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0430-flatten-a-multilevel-doubly-linked-list.cpp",
+          "path": "0430-flatten-a-multilevel-doubly-linked-list/0430-flatten-a-multilevel-doubly-linked-list.cpp",
+          "sha": "adbc63a6da3c54226fe3fb7e050202ac294cf75a",
+          "lastSyncedAt": "2026-11-02T06:08:33.156Z"
         }
       ]
     }
