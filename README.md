@@ -6,18 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 115 | 86 | 27 | 2 |
+| 117 | 87 | 27 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 16 days | 49 |
+| 4 days | 16 days | 51 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-13 | 2 |
-| 2026-10-15 | 2 |
 | 2026-10-17 | 3 |
 | 2026-10-18 | 1 |
 | 2026-10-19 | 1 |
@@ -30,17 +28,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-10-30 | 2 |
 | 2026-11-01 | 2 |
 | 2026-11-02 | 1 |
+| 2026-11-03 | 1 |
+| 2026-11-04 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 51 | 44% |
+| Array | 52 | 44% |
 | Math | 44 | 38% |
-| String | 27 | 23% |
+| String | 28 | 24% |
 | Hash Table | 14 | 12% |
+| Simulation | 13 | 11% |
 | Two Pointers | 13 | 11% |
-| Simulation | 12 | 10% |
 | Sorting | 10 | 9% |
 | Stack | 10 | 9% |
 | Bit Manipulation | 9 | 8% |
@@ -51,10 +51,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 54 |
+| [Array](Topics/array/) | 55 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
-| [Binary Search](Topics/binary-search/) | 6 |
+| [Binary Search](Topics/binary-search/) | 7 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 9 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 6 |
@@ -65,7 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Design](Topics/design/) | 2 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 2 |
@@ -92,10 +92,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 8 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
-| [Simulation](Topics/simulation/) | 12 |
+| [Simulation](Topics/simulation/) | 13 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 12 |
-| [String](Topics/string/) | 28 |
+| [String](Topics/string/) | 29 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 13 |
