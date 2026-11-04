@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-20T11:02:52.422Z",
+  "updatedAt": "2026-11-04T12:58:13.886Z",
   "problems": [
     {
       "frontendId": "43",
@@ -64,6 +64,26 @@
           "path": "0412-fizz-buzz/0412-fizz-buzz.cpp",
           "sha": "b019eaa12261c4fadce002b8f2ca4851bfaa30e9",
           "lastSyncedAt": "2026-10-02T19:44:06.987Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "657",
+      "title": "Robot Return to Origin",
+      "slug": "robot-return-to-origin",
+      "problemName": "0657-robot-return-to-origin",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/robot-return-to-origin/",
+      "folderPath": "0657-robot-return-to-origin/",
+      "readmePath": "0657-robot-return-to-origin/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0657-robot-return-to-origin.cpp",
+          "path": "0657-robot-return-to-origin/0657-robot-return-to-origin.cpp",
+          "sha": "df7f6e03d63200fe9fe9a16854ba5474b6d18675",
+          "lastSyncedAt": "2026-11-04T12:58:13.886Z"
         }
       ]
     },
