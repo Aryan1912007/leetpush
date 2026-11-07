@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T21:12:45.880Z",
+  "updatedAt": "2026-11-07T19:58:25.650Z",
   "problems": [
     {
       "frontendId": "4",
@@ -484,6 +484,26 @@
           "path": "1672-richest-customer-wealth/1672-richest-customer-wealth.cpp",
           "sha": "f97f123529a987a068aad554d2cc55445fa8be9e",
           "lastSyncedAt": "2026-10-28T13:58:32.775Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1882",
+      "title": "Process Tasks Using Servers",
+      "slug": "process-tasks-using-servers",
+      "problemName": "1882-process-tasks-using-servers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/process-tasks-using-servers/",
+      "folderPath": "1882-process-tasks-using-servers/",
+      "readmePath": "1882-process-tasks-using-servers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1882-process-tasks-using-servers.cpp",
+          "path": "1882-process-tasks-using-servers/1882-process-tasks-using-servers.cpp",
+          "sha": "182b7e08f91dfc3aa65f4588d46a45adc82b0523",
+          "lastSyncedAt": "2026-11-07T19:58:25.650Z"
         }
       ]
     },
