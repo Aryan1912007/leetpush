@@ -6,18 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 117 | 87 | 27 | 3 |
+| 119 | 87 | 29 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 16 days | 51 |
+| 2 days | 16 days | 53 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-17 | 3 |
-| 2026-10-18 | 1 |
 | 2026-10-19 | 1 |
 | 2026-10-20 | 2 |
 | 2026-10-22 | 1 |
@@ -30,19 +28,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-11-02 | 1 |
 | 2026-11-03 | 1 |
 | 2026-11-04 | 1 |
+| 2026-11-08 | 1 |
+| 2026-11-09 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 52 | 44% |
-| Math | 44 | 38% |
+| Array | 53 | 45% |
+| Math | 44 | 37% |
 | String | 28 | 24% |
 | Hash Table | 14 | 12% |
 | Simulation | 13 | 11% |
 | Two Pointers | 13 | 11% |
-| Sorting | 10 | 9% |
-| Stack | 10 | 9% |
+| Sorting | 10 | 8% |
+| Stack | 10 | 8% |
 | Bit Manipulation | 9 | 8% |
 | Recursion | 8 | 7% |
 
@@ -51,14 +51,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 55 |
+| [Array](Topics/array/) | 57 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
-| [Binary Search](Topics/binary-search/) | 7 |
-| [Binary Tree](Topics/binary-tree/) | 1 |
+| [Binary Search](Topics/binary-search/) | 8 |
+| [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 9 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 6 |
 | [Brainteaser](Topics/brainteaser/) | 4 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting](Topics/counting/) | 2 |
 | [Data Stream](Topics/data-stream/) | 1 |
@@ -76,7 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 14 |
 | [Heap](Topics/heap/) | 0 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [impartial-game](Topics/impartial-game/) | 0 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Linked List](Topics/linked-list/) | 6 |
@@ -96,7 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 12 |
 | [String](Topics/string/) | 29 |
-| [Tree](Topics/tree/) | 1 |
+| [Tree](Topics/tree/) | 2 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 13 |
+| [Two Pointers](Topics/two-pointers/) | 14 |
 <!---LeetHub Summary End-->
