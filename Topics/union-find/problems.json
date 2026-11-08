@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-08T20:29:25.244Z",
+  "updatedAt": "2026-11-08T20:31:27.298Z",
   "problems": [
     {
       "frontendId": "1267",
@@ -23,7 +23,7 @@
           "filename": "1267-count-servers-that-communicate.cpp",
           "path": "1267-count-servers-that-communicate/1267-count-servers-that-communicate.cpp",
           "sha": "e6bcb9c45b3d507b22ff815ecbb63ca5c1356675",
-          "lastSyncedAt": "2026-11-08T20:29:25.244Z"
+          "lastSyncedAt": "2026-11-08T20:31:27.298Z"
         }
       ]
     }
