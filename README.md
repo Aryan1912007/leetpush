@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 119 | 87 | 29 | 3 |
+| 120 | 87 | 30 | 3 |
 
 ## Activity
 
@@ -29,15 +29,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-11-03 | 1 |
 | 2026-11-04 | 1 |
 | 2026-11-08 | 1 |
-| 2026-11-09 | 1 |
+| 2026-11-09 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 53 | 45% |
+| Array | 54 | 45% |
 | Math | 44 | 37% |
-| String | 28 | 24% |
+| String | 28 | 23% |
 | Hash Table | 14 | 12% |
 | Simulation | 13 | 11% |
 | Two Pointers | 13 | 11% |
@@ -51,7 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 57 |
+| [Array](Topics/array/) | 58 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 8 |
@@ -59,12 +59,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Bit Manipulation](Topics/bit-manipulation/) | 9 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 6 |
 | [Brainteaser](Topics/brainteaser/) | 4 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 1 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
-| [Counting](Topics/counting/) | 2 |
+| [Counting](Topics/counting/) | 3 |
 | [Data Stream](Topics/data-stream/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 2 |
+| [Depth-First Search](Topics/depth-first-search/) | 3 |
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
@@ -82,7 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Interactive](Topics/interactive/) | 2 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Math](Topics/math/) | 45 |
-| [Matrix](Topics/matrix/) | 0 |
+| [Matrix](Topics/matrix/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 4 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 2 |
@@ -100,4 +100,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Tree](Topics/tree/) | 2 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 14 |
+| [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
