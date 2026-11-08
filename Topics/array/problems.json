@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-08T20:39:06.342Z",
+  "updatedAt": "2026-11-08T20:52:02.579Z",
   "problems": [
     {
       "frontendId": "4",
@@ -444,6 +444,26 @@
           "path": "1470-shuffle-the-array/1470-shuffle-the-array.cpp",
           "sha": "56a5245a4aba0af1fc3d9cf2c89cd9fb143bc169",
           "lastSyncedAt": "2026-10-02T19:44:16.224Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1528",
+      "title": "Shuffle String",
+      "slug": "shuffle-string",
+      "problemName": "1528-shuffle-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-string/",
+      "folderPath": "1528-shuffle-string/",
+      "readmePath": "1528-shuffle-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1528-shuffle-string.cpp",
+          "path": "1528-shuffle-string/1528-shuffle-string.cpp",
+          "sha": "fe470b06338105ce223fdedf1e92384e3b64794d",
+          "lastSyncedAt": "2026-11-08T20:52:02.579Z"
         }
       ]
     },
