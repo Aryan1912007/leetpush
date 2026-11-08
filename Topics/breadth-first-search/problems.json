@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-08T18:50:22.303Z",
+  "updatedAt": "2026-11-08T20:29:25.244Z",
   "problems": [
     {
       "frontendId": "102",
@@ -24,6 +24,26 @@
           "path": "0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.cpp",
           "sha": "841f0ae307704295b806a713e19a66a7ff8e01f7",
           "lastSyncedAt": "2026-11-08T18:50:22.303Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1267",
+      "title": "Count Servers that Communicate",
+      "slug": "count-servers-that-communicate",
+      "problemName": "1267-count-servers-that-communicate",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-servers-that-communicate/",
+      "folderPath": "1267-count-servers-that-communicate/",
+      "readmePath": "1267-count-servers-that-communicate/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1267-count-servers-that-communicate.cpp",
+          "path": "1267-count-servers-that-communicate/1267-count-servers-that-communicate.cpp",
+          "sha": "e6bcb9c45b3d507b22ff815ecbb63ca5c1356675",
+          "lastSyncedAt": "2026-11-08T20:29:25.244Z"
         }
       ]
     }
