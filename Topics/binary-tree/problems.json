@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "binary-tree",
-    "name": "Binary Tree"
+    "name": "Binary Tree",
+    "tagId": "61057"
   },
-  "updatedAt": "2026-10-02T19:48:11.013Z",
+  "updatedAt": "2026-11-08T18:40:29.358Z",
   "problems": [
+    {
+      "frontendId": "102",
+      "title": "Binary Tree Level Order Traversal",
+      "slug": "binary-tree-level-order-traversal",
+      "problemName": "0102-binary-tree-level-order-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+      "folderPath": "0102-binary-tree-level-order-traversal/",
+      "readmePath": "0102-binary-tree-level-order-traversal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0102-binary-tree-level-order-traversal.cpp",
+          "path": "0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.cpp",
+          "sha": "841f0ae307704295b806a713e19a66a7ff8e01f7",
+          "lastSyncedAt": "2026-11-08T18:40:29.358Z"
+        }
+      ]
+    },
     {
       "frontendId": "2265",
       "title": "Count Nodes Equal to Average of Subtree",
