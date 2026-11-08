@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T19:58:25.650Z",
+  "updatedAt": "2026-11-08T20:29:25.244Z",
   "problems": [
     {
       "frontendId": "4",
@@ -364,6 +364,26 @@
           "path": "1232-check-if-it-is-a-straight-line/1232-check-if-it-is-a-straight-line.cpp",
           "sha": "12e6f8267753593005d732c2c919cca725a83fea",
           "lastSyncedAt": "2026-10-06T05:34:55.565Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1267",
+      "title": "Count Servers that Communicate",
+      "slug": "count-servers-that-communicate",
+      "problemName": "1267-count-servers-that-communicate",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-servers-that-communicate/",
+      "folderPath": "1267-count-servers-that-communicate/",
+      "readmePath": "1267-count-servers-that-communicate/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1267-count-servers-that-communicate.cpp",
+          "path": "1267-count-servers-that-communicate/1267-count-servers-that-communicate.cpp",
+          "sha": "e6bcb9c45b3d507b22ff815ecbb63ca5c1356675",
+          "lastSyncedAt": "2026-11-08T20:29:25.244Z"
         }
       ]
     },
