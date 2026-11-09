@@ -5,8 +5,28 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-08T20:39:06.342Z",
+  "updatedAt": "2026-11-09T10:23:11.648Z",
   "problems": [
+    {
+      "frontendId": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "problemName": "0100-same-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+      "folderPath": "0100-same-tree/",
+      "readmePath": "0100-same-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0100-same-tree.cpp",
+          "path": "0100-same-tree/0100-same-tree.cpp",
+          "sha": "1abecad6d40c285be902bc43f3731c185ed17e90",
+          "lastSyncedAt": "2026-11-09T10:23:11.648Z"
+        }
+      ]
+    },
     {
       "frontendId": "430",
       "title": "Flatten a Multilevel Doubly Linked List",
