@@ -6,7 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 120 | 87 | 30 | 3 |
+| 122 | 89 | 30 | 3 |
 
 ## Activity
 
@@ -29,21 +29,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-11-03 | 1 |
 | 2026-11-04 | 1 |
 | 2026-11-08 | 1 |
-| 2026-11-09 | 2 |
+| 2026-11-09 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 54 | 45% |
-| Math | 44 | 37% |
-| String | 28 | 23% |
-| Hash Table | 14 | 12% |
+| Array | 55 | 45% |
+| Math | 44 | 36% |
+| String | 29 | 24% |
+| Hash Table | 14 | 11% |
 | Simulation | 13 | 11% |
 | Two Pointers | 13 | 11% |
 | Sorting | 10 | 8% |
 | Stack | 10 | 8% |
-| Bit Manipulation | 9 | 8% |
+| Bit Manipulation | 9 | 7% |
 | Recursion | 8 | 7% |
 
 ## Topics
@@ -51,20 +51,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 58 |
+| [Array](Topics/array/) | 59 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 8 |
-| [Binary Tree](Topics/binary-tree/) | 2 |
+| [Binary Tree](Topics/binary-tree/) | 3 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 9 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 6 |
 | [Brainteaser](Topics/brainteaser/) | 4 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 2 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 3 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting](Topics/counting/) | 3 |
 | [Data Stream](Topics/data-stream/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 3 |
+| [Depth-First Search](Topics/depth-first-search/) | 4 |
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
@@ -96,8 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Simulation](Topics/simulation/) | 13 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 12 |
-| [String](Topics/string/) | 29 |
-| [Tree](Topics/tree/) | 2 |
+| [String](Topics/string/) | 30 |
+| [Tree](Topics/tree/) | 3 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 14 |
 | [Union-Find](Topics/union-find/) | 1 |
