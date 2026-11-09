@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string-matching",
+    "name": "String Matching",
+    "tagId": "61052"
+  },
+  "updatedAt": "2026-11-09T11:16:45.579Z",
+  "problems": [
+    {
+      "frontendId": "572",
+      "title": "Subtree of Another Tree",
+      "slug": "subtree-of-another-tree",
+      "problemName": "0572-subtree-of-another-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subtree-of-another-tree/",
+      "folderPath": "0572-subtree-of-another-tree/",
+      "readmePath": "0572-subtree-of-another-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0572-subtree-of-another-tree.cpp",
+          "path": "0572-subtree-of-another-tree/0572-subtree-of-another-tree.cpp",
+          "sha": "84861e256059e5322ab84c79baf30fe5a995facb",
+          "lastSyncedAt": "2026-11-09T11:16:45.579Z"
+        }
+      ]
+    }
+  ]
+}
