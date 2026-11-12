@@ -6,18 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 122 | 89 | 30 | 3 |
+| 124 | 91 | 30 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 16 days | 53 |
+| 2 days | 16 days | 55 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-19 | 1 |
-| 2026-10-20 | 2 |
 | 2026-10-22 | 1 |
 | 2026-10-23 | 2 |
 | 2026-10-24 | 2 |
@@ -30,28 +28,30 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-11-04 | 1 |
 | 2026-11-08 | 1 |
 | 2026-11-09 | 4 |
+| 2026-11-11 | 1 |
+| 2026-11-12 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 55 | 45% |
-| Math | 44 | 36% |
-| String | 29 | 24% |
+| Array | 57 | 46% |
+| Math | 44 | 35% |
+| String | 29 | 23% |
 | Hash Table | 14 | 11% |
-| Simulation | 13 | 11% |
-| Two Pointers | 13 | 11% |
-| Sorting | 10 | 8% |
+| Simulation | 13 | 10% |
+| Two Pointers | 13 | 10% |
+| Sorting | 11 | 9% |
 | Stack | 10 | 8% |
 | Bit Manipulation | 9 | 7% |
-| Recursion | 8 | 7% |
+| Recursion | 8 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 59 |
+| [Array](Topics/array/) | 61 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 8 |
@@ -60,11 +60,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Bracket Sequences](Topics/bracket-sequences/) | 6 |
 | [Brainteaser](Topics/brainteaser/) | 4 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 3 |
+| [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting](Topics/counting/) | 3 |
+| [Counting Sort](Topics/counting-sort/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 4 |
+| [Depth-First Search](Topics/depth-first-search/) | 6 |
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
@@ -94,10 +96,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Recursion](Topics/recursion/) | 8 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 13 |
-| [Sorting](Topics/sorting/) | 11 |
+| [Sorting](Topics/sorting/) | 12 |
 | [Stack](Topics/stack/) | 12 |
 | [String](Topics/string/) | 30 |
-| [Tree](Topics/tree/) | 3 |
+| [String Matching](Topics/string-matching/) | 1 |
+| [Tree](Topics/tree/) | 5 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 14 |
 | [Union-Find](Topics/union-find/) | 1 |
