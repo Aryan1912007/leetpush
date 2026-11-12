@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-12T17:21:59.418Z",
+  "updatedAt": "2026-11-12T17:24:09.507Z",
   "problems": [
     {
       "frontendId": "4",
@@ -943,7 +943,7 @@
           "filename": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray.cpp",
           "path": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.cpp",
           "sha": "0a42830de751102a1498e4ea95b533228c30b93f",
-          "lastSyncedAt": "2026-11-12T17:21:59.418Z"
+          "lastSyncedAt": "2026-11-12T17:24:09.507Z"
         }
       ]
     },
