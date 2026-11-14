@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T17:59:47.390Z",
+  "updatedAt": "2026-11-14T18:18:58.408Z",
   "problems": [
     {
       "frontendId": "4",
@@ -1004,6 +1004,26 @@
           "path": "3232-find-if-digit-game-can-be-won/3232-find-if-digit-game-can-be-won.cpp",
           "sha": "d5bc58cf4474fba78f87b9025d9aae9066beac3a",
           "lastSyncedAt": "2026-10-02T19:46:24.511Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3364",
+      "title": "Minimum Positive Sum Subarray ",
+      "slug": "minimum-positive-sum-subarray",
+      "problemName": "3364-minimum-positive-sum-subarray",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+      "folderPath": "3364-minimum-positive-sum-subarray/",
+      "readmePath": "3364-minimum-positive-sum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3364-minimum-positive-sum-subarray.cpp",
+          "path": "3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.cpp",
+          "sha": "0fb1fe2abf586952ae0940385716d81adb78d5f7",
+          "lastSyncedAt": "2026-11-14T18:18:58.408Z"
         }
       ]
     },
