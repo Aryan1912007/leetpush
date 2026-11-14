@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 125 | 92 | 30 | 3 |
+| 126 | 93 | 30 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 16 days | 56 |
+| 4 days | 16 days | 57 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-23 | 2 |
 | 2026-10-24 | 2 |
 | 2026-10-25 | 3 |
 | 2026-10-27 | 2 |
@@ -30,12 +29,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-11-11 | 1 |
 | 2026-11-12 | 1 |
 | 2026-11-13 | 1 |
+| 2026-11-14 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 58 | 46% |
+| Array | 59 | 47% |
 | Math | 44 | 35% |
 | String | 29 | 23% |
 | Hash Table | 14 | 11% |
@@ -51,7 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 62 |
+| [Array](Topics/array/) | 63 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 8 |
@@ -90,12 +90,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Number Theory](Topics/number-theory/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [polygons](Topics/polygons/) | 0 |
-| [Prefix Sum](Topics/prefix-sum/) | 4 |
+| [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 8 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 13 |
+| [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 12 |
 | [Stack](Topics/stack/) | 12 |
 | [String](Topics/string/) | 30 |
