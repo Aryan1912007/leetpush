@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-16T19:12:30.848Z",
+  "updatedAt": "2026-11-14T18:18:58.408Z",
   "problems": [
     {
       "frontendId": "560",
@@ -44,6 +44,26 @@
           "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.cpp",
           "sha": "6fd0873947cab8d6bf18c55e0663b3fcb87bb545",
           "lastSyncedAt": "2026-10-02T19:42:48.159Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3364",
+      "title": "Minimum Positive Sum Subarray ",
+      "slug": "minimum-positive-sum-subarray",
+      "problemName": "3364-minimum-positive-sum-subarray",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+      "folderPath": "3364-minimum-positive-sum-subarray/",
+      "readmePath": "3364-minimum-positive-sum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3364-minimum-positive-sum-subarray.cpp",
+          "path": "3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.cpp",
+          "sha": "0fb1fe2abf586952ae0940385716d81adb78d5f7",
+          "lastSyncedAt": "2026-11-14T18:18:58.408Z"
         }
       ]
     },
