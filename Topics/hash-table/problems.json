@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-31T19:22:17.723Z",
+  "updatedAt": "2026-11-15T19:27:52.847Z",
   "problems": [
     {
       "frontendId": "138",
@@ -264,6 +264,26 @@
           "path": "3760-maximum-substrings-with-distinct-start/3760-maximum-substrings-with-distinct-start.cpp",
           "sha": "e0bda3019034f22688cd6999fb9cfa71f4d95a00",
           "lastSyncedAt": "2026-10-02T19:49:36.743Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3790",
+      "title": "Smallest All-Ones Multiple",
+      "slug": "smallest-all-ones-multiple",
+      "problemName": "3790-smallest-all-ones-multiple",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-all-ones-multiple/",
+      "folderPath": "3790-smallest-all-ones-multiple/",
+      "readmePath": "3790-smallest-all-ones-multiple/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3790-smallest-all-ones-multiple.cpp",
+          "path": "3790-smallest-all-ones-multiple/3790-smallest-all-ones-multiple.cpp",
+          "sha": "9a934a3e626dd03fa6bfa78e0ad4c1af41341238",
+          "lastSyncedAt": "2026-11-15T19:27:52.847Z"
         }
       ]
     },
