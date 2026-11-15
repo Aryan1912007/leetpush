@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T19:31:20.575Z",
+  "updatedAt": "2026-11-15T19:31:35.045Z",
   "problems": [
     {
       "frontendId": "2",
@@ -823,7 +823,7 @@
           "filename": "3790-smallest-all-ones-multiple.cpp",
           "path": "3790-smallest-all-ones-multiple/3790-smallest-all-ones-multiple.cpp",
           "sha": "9a934a3e626dd03fa6bfa78e0ad4c1af41341238",
-          "lastSyncedAt": "2026-11-15T19:31:20.575Z"
+          "lastSyncedAt": "2026-11-15T19:31:35.045Z"
         }
       ]
     },
