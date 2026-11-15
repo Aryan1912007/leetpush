@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-31T20:39:55.236Z",
+  "updatedAt": "2026-11-15T19:27:52.847Z",
   "problems": [
     {
       "frontendId": "2",
@@ -804,6 +804,26 @@
           "path": "3723-maximize-sum-of-squares-of-digits/3723-maximize-sum-of-squares-of-digits.cpp",
           "sha": "49e7a3cb231ea23e6d4b8d82f4819cb647577ed5",
           "lastSyncedAt": "2026-10-14T21:21:08.914Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3790",
+      "title": "Smallest All-Ones Multiple",
+      "slug": "smallest-all-ones-multiple",
+      "problemName": "3790-smallest-all-ones-multiple",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-all-ones-multiple/",
+      "folderPath": "3790-smallest-all-ones-multiple/",
+      "readmePath": "3790-smallest-all-ones-multiple/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3790-smallest-all-ones-multiple.cpp",
+          "path": "3790-smallest-all-ones-multiple/3790-smallest-all-ones-multiple.cpp",
+          "sha": "9a934a3e626dd03fa6bfa78e0ad4c1af41341238",
+          "lastSyncedAt": "2026-11-15T19:27:52.847Z"
         }
       ]
     },
