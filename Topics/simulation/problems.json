@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-06T19:10:05.775Z",
+  "updatedAt": "2026-11-16T09:09:40.952Z",
   "problems": [
     {
       "frontendId": "43",
@@ -204,6 +204,26 @@
           "path": "2180-count-integers-with-even-digit-sum/2180-count-integers-with-even-digit-sum.cpp",
           "sha": "0109efe12ef4465398034bf46aaad6270081ecc6",
           "lastSyncedAt": "2026-10-02T19:40:49.118Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2243",
+      "title": "Calculate Digit Sum of a String",
+      "slug": "calculate-digit-sum-of-a-string",
+      "problemName": "2243-calculate-digit-sum-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
+      "folderPath": "2243-calculate-digit-sum-of-a-string/",
+      "readmePath": "2243-calculate-digit-sum-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2243-calculate-digit-sum-of-a-string.cpp",
+          "path": "2243-calculate-digit-sum-of-a-string/2243-calculate-digit-sum-of-a-string.cpp",
+          "sha": "bb67052c08b277725809c2a19a51baad96666001",
+          "lastSyncedAt": "2026-11-16T09:09:40.952Z"
         }
       ]
     },
