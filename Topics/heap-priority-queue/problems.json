@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-07T19:58:25.650Z",
+  "updatedAt": "2026-11-17T20:15:36.552Z",
   "problems": [
     {
       "frontendId": "347",
@@ -44,6 +44,26 @@
           "path": "1882-process-tasks-using-servers/1882-process-tasks-using-servers.cpp",
           "sha": "182b7e08f91dfc3aa65f4588d46a45adc82b0523",
           "lastSyncedAt": "2026-11-07T19:58:25.650Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2974",
+      "title": "Minimum Number Game",
+      "slug": "minimum-number-game",
+      "problemName": "2974-minimum-number-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-game/",
+      "folderPath": "2974-minimum-number-game/",
+      "readmePath": "2974-minimum-number-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2974-minimum-number-game.cpp",
+          "path": "2974-minimum-number-game/2974-minimum-number-game.cpp",
+          "sha": "595fd49ed9deee083e3b30d9f26c7694249066b4",
+          "lastSyncedAt": "2026-11-17T20:15:36.552Z"
         }
       ]
     },
