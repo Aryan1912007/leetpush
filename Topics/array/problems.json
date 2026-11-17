@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-14T18:18:58.408Z",
+  "updatedAt": "2026-11-17T20:15:36.552Z",
   "problems": [
     {
       "frontendId": "4",
@@ -884,6 +884,26 @@
           "path": "2942-find-words-containing-character/2942-find-words-containing-character.cpp",
           "sha": "2fcf3ee4316206d013a5c9b9f523b1a87024454d",
           "lastSyncedAt": "2026-10-02T19:42:40.741Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2974",
+      "title": "Minimum Number Game",
+      "slug": "minimum-number-game",
+      "problemName": "2974-minimum-number-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-game/",
+      "folderPath": "2974-minimum-number-game/",
+      "readmePath": "2974-minimum-number-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2974-minimum-number-game.cpp",
+          "path": "2974-minimum-number-game/2974-minimum-number-game.cpp",
+          "sha": "595fd49ed9deee083e3b30d9f26c7694249066b4",
+          "lastSyncedAt": "2026-11-17T20:15:36.552Z"
         }
       ]
     },
