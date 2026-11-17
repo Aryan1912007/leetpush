@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-11T05:48:36.085Z",
+  "updatedAt": "2026-11-17T20:15:36.552Z",
   "problems": [
     {
       "frontendId": "15",
@@ -184,6 +184,26 @@
           "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.cpp",
           "sha": "3e25a68f03c48272aa28bbe6e7d643978d6b8104",
           "lastSyncedAt": "2026-10-02T19:42:57.932Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2974",
+      "title": "Minimum Number Game",
+      "slug": "minimum-number-game",
+      "problemName": "2974-minimum-number-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-game/",
+      "folderPath": "2974-minimum-number-game/",
+      "readmePath": "2974-minimum-number-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2974-minimum-number-game.cpp",
+          "path": "2974-minimum-number-game/2974-minimum-number-game.cpp",
+          "sha": "595fd49ed9deee083e3b30d9f26c7694249066b4",
+          "lastSyncedAt": "2026-11-17T20:15:36.552Z"
         }
       ]
     },
