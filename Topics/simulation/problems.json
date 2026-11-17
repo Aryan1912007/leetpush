@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-16T09:11:24.876Z",
+  "updatedAt": "2026-11-17T20:15:36.552Z",
   "problems": [
     {
       "frontendId": "43",
@@ -224,6 +224,26 @@
           "path": "2243-calculate-digit-sum-of-a-string/2243-calculate-digit-sum-of-a-string.cpp",
           "sha": "bb67052c08b277725809c2a19a51baad96666001",
           "lastSyncedAt": "2026-11-16T09:11:24.876Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2974",
+      "title": "Minimum Number Game",
+      "slug": "minimum-number-game",
+      "problemName": "2974-minimum-number-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-game/",
+      "folderPath": "2974-minimum-number-game/",
+      "readmePath": "2974-minimum-number-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2974-minimum-number-game.cpp",
+          "path": "2974-minimum-number-game/2974-minimum-number-game.cpp",
+          "sha": "595fd49ed9deee083e3b30d9f26c7694249066b4",
+          "lastSyncedAt": "2026-11-17T20:15:36.552Z"
         }
       ]
     },
