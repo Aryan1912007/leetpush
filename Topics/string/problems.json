@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-16T09:11:24.876Z",
+  "updatedAt": "2026-11-18T20:04:56.953Z",
   "problems": [
     {
       "frontendId": "14",
@@ -484,6 +484,26 @@
           "path": "2409-count-days-spent-together/2409-count-days-spent-together.cpp",
           "sha": "0be49216e21a92f7defca10dad3d1a92a61996b8",
           "lastSyncedAt": "2026-10-24T20:53:26.913Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2914",
+      "title": "Minimum Number of Changes to Make Binary String Beautiful",
+      "slug": "minimum-number-of-changes-to-make-binary-string-beautiful",
+      "problemName": "2914-minimum-number-of-changes-to-make-binary-string-beautiful",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/",
+      "folderPath": "2914-minimum-number-of-changes-to-make-binary-string-beautiful/",
+      "readmePath": "2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2914-minimum-number-of-changes-to-make-binary-string-beautiful.cpp",
+          "path": "2914-minimum-number-of-changes-to-make-binary-string-beautiful/2914-minimum-number-of-changes-to-make-binary-string-beautiful.cpp",
+          "sha": "46fc76474b21ad6a64fc78dfde998a508d540f64",
+          "lastSyncedAt": "2026-11-18T20:04:56.953Z"
         }
       ]
     },
