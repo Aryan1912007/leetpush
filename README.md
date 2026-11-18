@@ -6,17 +6,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 127 | 93 | 31 | 3 |
+| 129 | 94 | 32 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 16 days | 58 |
+| 1 days | 16 days | 59 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-25 | 3 |
 | 2026-10-27 | 2 |
 | 2026-10-30 | 2 |
 | 2026-11-01 | 2 |
@@ -29,7 +28,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 2026-11-12 | 1 |
 | 2026-11-13 | 1 |
 | 2026-11-14 | 1 |
-| 2026-11-16 | 1 |
+| 2026-11-16 | 2 |
+| 2026-11-19 | 1 |
 
 ## Top Tags
 
@@ -37,10 +37,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | --- | ---: | ---: |
 | Array | 59 | 46% |
 | Math | 45 | 35% |
-| String | 29 | 23% |
+| String | 31 | 24% |
 | Hash Table | 15 | 12% |
+| Simulation | 14 | 11% |
 | Two Pointers | 14 | 11% |
-| Simulation | 13 | 10% |
 | Sorting | 11 | 9% |
 | Stack | 10 | 8% |
 | Bit Manipulation | 9 | 7% |
@@ -51,7 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 63 |
+| [Array](Topics/array/) | 64 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 8 |
@@ -79,7 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 15 |
 | [Heap](Topics/heap/) | 0 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
 | [impartial-game](Topics/impartial-game/) | 0 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Linked List](Topics/linked-list/) | 6 |
@@ -95,11 +95,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 8 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
-| [Simulation](Topics/simulation/) | 13 |
+| [Simulation](Topics/simulation/) | 15 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 12 |
+| [Sorting](Topics/sorting/) | 13 |
 | [Stack](Topics/stack/) | 12 |
-| [String](Topics/string/) | 30 |
+| [String](Topics/string/) | 32 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 5 |
 | [Trie](Topics/trie/) | 1 |
