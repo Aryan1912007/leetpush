@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T20:15:36.552Z",
+  "updatedAt": "2026-11-19T19:36:00.757Z",
   "problems": [
     {
       "frontendId": "4",
@@ -764,6 +764,26 @@
           "path": "2535-difference-between-element-sum-and-digit-sum-of-an-array/2535-difference-between-element-sum-and-digit-sum-of-an-array.cpp",
           "sha": "9339aee01b8e86388bac481171dc759904371dc4",
           "lastSyncedAt": "2026-10-02T19:47:30.164Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2567",
+      "title": "Minimum Score by Changing Two Elements",
+      "slug": "minimum-score-by-changing-two-elements",
+      "problemName": "2567-minimum-score-by-changing-two-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-score-by-changing-two-elements/",
+      "folderPath": "2567-minimum-score-by-changing-two-elements/",
+      "readmePath": "2567-minimum-score-by-changing-two-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2567-minimum-score-by-changing-two-elements.cpp",
+          "path": "2567-minimum-score-by-changing-two-elements/2567-minimum-score-by-changing-two-elements.cpp",
+          "sha": "a19387b7795c569370bbf9b7def6a479efce726e",
+          "lastSyncedAt": "2026-11-19T19:36:00.757Z"
         }
       ]
     },
