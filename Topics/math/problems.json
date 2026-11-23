@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-23T10:43:06.971Z",
+  "updatedAt": "2026-11-23T10:43:21.200Z",
   "problems": [
     {
       "frontendId": "2",
@@ -403,7 +403,7 @@
           "filename": "1352-product-of-the-last-k-numbers.cpp",
           "path": "1352-product-of-the-last-k-numbers/1352-product-of-the-last-k-numbers.cpp",
           "sha": "01bc4f37f0d8a3e331c0d2ce56b1e62deed85209",
-          "lastSyncedAt": "2026-11-23T10:43:06.971Z"
+          "lastSyncedAt": "2026-11-23T10:43:21.200Z"
         }
       ]
     },
