@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T10:42:46.924Z",
+  "updatedAt": "2026-11-23T10:43:06.971Z",
   "problems": [
     {
       "frontendId": "4",
@@ -463,7 +463,7 @@
           "filename": "1352-product-of-the-last-k-numbers.cpp",
           "path": "1352-product-of-the-last-k-numbers/1352-product-of-the-last-k-numbers.cpp",
           "sha": "01bc4f37f0d8a3e331c0d2ce56b1e62deed85209",
-          "lastSyncedAt": "2026-11-23T10:42:46.924Z"
+          "lastSyncedAt": "2026-11-23T10:43:06.971Z"
         }
       ]
     },
