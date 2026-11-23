@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-14T18:18:58.408Z",
+  "updatedAt": "2026-11-23T10:42:46.924Z",
   "problems": [
     {
       "frontendId": "560",
@@ -24,6 +24,26 @@
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.cpp",
           "sha": "c47417875c5b8fee1554d285ab9ee1dd6ddfefd5",
           "lastSyncedAt": "2026-10-16T19:12:30.848Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1352",
+      "title": "Product of the Last K Numbers",
+      "slug": "product-of-the-last-k-numbers",
+      "problemName": "1352-product-of-the-last-k-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
+      "folderPath": "1352-product-of-the-last-k-numbers/",
+      "readmePath": "1352-product-of-the-last-k-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1352-product-of-the-last-k-numbers.cpp",
+          "path": "1352-product-of-the-last-k-numbers/1352-product-of-the-last-k-numbers.cpp",
+          "sha": "01bc4f37f0d8a3e331c0d2ce56b1e62deed85209",
+          "lastSyncedAt": "2026-11-23T10:42:46.924Z"
         }
       ]
     },
