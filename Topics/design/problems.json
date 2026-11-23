@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-10-23T18:53:30.478Z",
+  "updatedAt": "2026-11-23T10:42:46.924Z",
   "problems": [
     {
       "frontendId": "155",
@@ -44,6 +44,26 @@
           "path": "0901-online-stock-span/0901-online-stock-span.cpp",
           "sha": "13c342015a0e34c1c4eb6b5f1d3150b86bf832d2",
           "lastSyncedAt": "2026-10-22T20:36:02.642Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1352",
+      "title": "Product of the Last K Numbers",
+      "slug": "product-of-the-last-k-numbers",
+      "problemName": "1352-product-of-the-last-k-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
+      "folderPath": "1352-product-of-the-last-k-numbers/",
+      "readmePath": "1352-product-of-the-last-k-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1352-product-of-the-last-k-numbers.cpp",
+          "path": "1352-product-of-the-last-k-numbers/1352-product-of-the-last-k-numbers.cpp",
+          "sha": "01bc4f37f0d8a3e331c0d2ce56b1e62deed85209",
+          "lastSyncedAt": "2026-11-23T10:42:46.924Z"
         }
       ]
     }
