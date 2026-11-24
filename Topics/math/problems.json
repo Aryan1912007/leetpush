@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-23T10:43:21.200Z",
+  "updatedAt": "2026-11-24T16:04:28.911Z",
   "problems": [
     {
       "frontendId": "2",
@@ -784,6 +784,26 @@
           "path": "3232-find-if-digit-game-can-be-won/3232-find-if-digit-game-can-be-won.cpp",
           "sha": "d5bc58cf4474fba78f87b9025d9aae9066beac3a",
           "lastSyncedAt": "2026-10-02T19:46:24.511Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3411",
+      "title": "Maximum Subarray With Equal Products",
+      "slug": "maximum-subarray-with-equal-products",
+      "problemName": "3411-maximum-subarray-with-equal-products",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray-with-equal-products/",
+      "folderPath": "3411-maximum-subarray-with-equal-products/",
+      "readmePath": "3411-maximum-subarray-with-equal-products/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3411-maximum-subarray-with-equal-products.cpp",
+          "path": "3411-maximum-subarray-with-equal-products/3411-maximum-subarray-with-equal-products.cpp",
+          "sha": "1eecde0b292b6594e879f80bab53aee9d5847d0e",
+          "lastSyncedAt": "2026-11-24T16:04:28.911Z"
         }
       ]
     },
