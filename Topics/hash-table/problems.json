@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-25T17:05:01.981Z",
+  "updatedAt": "2026-11-25T17:05:23.377Z",
   "problems": [
     {
       "frontendId": "13",
@@ -123,7 +123,7 @@
           "filename": "0299-bulls-and-cows.cpp",
           "path": "0299-bulls-and-cows/0299-bulls-and-cows.cpp",
           "sha": "1c0a402307fdf2025119b4e23479761aa2717c54",
-          "lastSyncedAt": "2026-11-25T17:05:01.981Z"
+          "lastSyncedAt": "2026-11-25T17:05:23.377Z"
         }
       ]
     },
