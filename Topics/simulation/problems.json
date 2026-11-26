@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-17T20:15:36.552Z",
+  "updatedAt": "2026-11-26T11:14:42.364Z",
   "problems": [
     {
       "frontendId": "43",
@@ -244,6 +244,26 @@
           "path": "2974-minimum-number-game/2974-minimum-number-game.cpp",
           "sha": "595fd49ed9deee083e3b30d9f26c7694249066b4",
           "lastSyncedAt": "2026-11-17T20:15:36.552Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3360",
+      "title": "Stone Removal Game",
+      "slug": "stone-removal-game",
+      "problemName": "3360-stone-removal-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-removal-game/",
+      "folderPath": "3360-stone-removal-game/",
+      "readmePath": "3360-stone-removal-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3360-stone-removal-game.cpp",
+          "path": "3360-stone-removal-game/3360-stone-removal-game.cpp",
+          "sha": "a9becc1fa1c305e78edce02e760b08b0ef4f2c80",
+          "lastSyncedAt": "2026-11-26T11:14:42.364Z"
         }
       ]
     },
